@@ -36,6 +36,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="D:\QFramework\Assets\ThirdPart\Demigiant\DOTween\DOTween.dll" />
+    <Analyzer Include="D:\QFramework\Assets\ThirdPart\Demigiant\DOTween\Editor\DOTweenUpgradeManager.dll" />
+    <Analyzer Include="D:\QFramework\Assets\ThirdPart\Demigiant\DOTween\Editor\DOTweenEditor.dll" />
+  </ItemGroup>
+  <ItemGroup>
      <Compile Include="Assets\XLua\Src\ObjectTranslatorPool.cs" />
      <Compile Include="Assets\XLua\Src\LuaTable.cs" />
      <Compile Include="Assets\XLua\Examples\01_Helloworld\Helloworld.cs" />
@@ -81,7 +86,7 @@
      <Compile Include="Assets\XLua\Src\CopyByValue.cs" />
      <Compile Include="Assets\XLua\Src\StaticLuaCallbacks.cs" />
      <Compile Include="Assets\XLua\Src\InternalGlobals.cs" />
-     <Compile Include="Assets\UI\Test.cs" />
+     <Compile Include="Assets\Scripts\UI\Test.cs" />
      <Compile Include="Assets\XLua\Gen\UnityEngine_Vector3Wrap.cs" />
      <Compile Include="Assets\XLua\Gen\XLuaTest_PeddingWrap.cs" />
      <Compile Include="Assets\XLua\Gen\System_ObjectWrap.cs" />
@@ -135,9 +140,19 @@
      <Compile Include="Assets\XLua\Gen\DelegatesGensBridge.cs" />
      <Compile Include="Assets\XLua\Gen\UnityEngine_QuaternionWrap.cs" />
      <Compile Include="Assets\XLua\Gen\UnityEngine_ColorWrap.cs" />
-     <Compile Include="Assets\Core\LuaBehaviour.cs" />
-     <Compile Include="Assets\LuaEnv\XLuaGenConfig.cs" />
-     <Compile Include="Assets\LuaEnv\LuaLoader.cs" />
+     <Compile Include="Assets\Scripts\Core\LuaBehaviour.cs" />
+     <Compile Include="Assets\Scripts\LuaEnv\XLuaGenConfig.cs" />
+     <Compile Include="Assets\Scripts\LuaEnv\LuaLoader.cs" />
+     <Compile Include="Assets\Scripts\AppConsts.cs" />
+     <Compile Include="Assets\Scripts\Ext\Utility.cs" />
+     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
+     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
+     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
+     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
+     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
+     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
+     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
+     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
      <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\async_test.lua.txt" />
      <None Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\Resources\byfile.lua.txt" />
      <None Include="Assets\XLua\Gen\link.xml" />
@@ -148,6 +163,7 @@
      <None Include="Assets\XLua\Examples\03_UIEvent\ButtonInteraction.lua.txt" />
      <None Include="Assets\XLua\Examples\02_U3DScripting\LuaTestScript.lua.txt" />
      <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\message_box.lua.txt" />
+     <None Include="Assets\ThirdPart\Demigiant\DOTween\readme.txt" />
      <None Include="Assets\XLua\Resources\tdr\tdr.lua.txt" />
      <None Include="Assets\XLua\CHANGELOG.txt" />
      <None Include="Assets\XLua\Examples\06_Coroutine\Resources\cs_coroutine.lua.txt" />
@@ -379,8 +395,14 @@
     <Reference Include="UnityEditor.UnityConnectModule">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+        <HintPath>D:\QFramework\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
         <HintPath>D:\QFramework\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+        <HintPath>D:\QFramework\Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
