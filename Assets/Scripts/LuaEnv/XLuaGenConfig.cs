@@ -14,7 +14,7 @@ using System.Linq;
 using System.Reflection;
 using UnityEngine.EventSystems;
 using UnityEngine.U2D;
-
+using System.IO;
 //配置的详细介绍请看Doc下《XLua的配置.doc》
 public static class XLuaGenConfig
 {
@@ -69,33 +69,32 @@ public static class XLuaGenConfig
         // typeof(EnhancedUI.EnhancedScroller.EnhancedList),
 
         // //插件=======================================
-        // //DOTween
-        // typeof(DG.Tweening.AutoPlay),
-        // typeof(DG.Tweening.AxisConstraint),
-        // typeof(DG.Tweening.Ease),
-        // typeof(DG.Tweening.LogBehaviour),
-        // typeof(DG.Tweening.LoopType),
-        // typeof(DG.Tweening.PathMode),
-        // typeof(DG.Tweening.PathType),
-        // typeof(DG.Tweening.RotateMode),
-        // typeof(DG.Tweening.ScrambleMode),
-        // typeof(DG.Tweening.TweenType),
-        // typeof(DG.Tweening.UpdateType),
-        // typeof(DG.Tweening.DOTween),
-        // typeof(DG.Tweening.DOVirtual),
-        // typeof(DG.Tweening.EaseFactory),
-        // typeof(DG.Tweening.Tweener),
-        // typeof(DG.Tweening.Tween),
-        // typeof(DG.Tweening.Sequence),
-        // typeof(DG.Tweening.TweenParams),
-        // typeof(DG.Tweening.Core.ABSSequentiable),
-        // typeof(DG.Tweening.Core.TweenerCore<Vector3, Vector3, DG.Tweening.Plugins.Options.VectorOptions>),
-        // typeof(DG.Tweening.TweenCallback),
-        // typeof(DG.Tweening.TweenExtensions),
-        // typeof(DG.Tweening.TweenSettingsExtensions),
-        // typeof(DG.Tweening.ShortcutExtensions),
-        // typeof(DG.Tweening.ShortcutExtensions46),
-
+        //DOTween
+        typeof(DG.Tweening.AutoPlay),
+        typeof(DG.Tweening.AxisConstraint),
+        typeof(DG.Tweening.Ease),
+        typeof(DG.Tweening.LogBehaviour),
+        typeof(DG.Tweening.LoopType),
+        typeof(DG.Tweening.PathMode),
+        typeof(DG.Tweening.PathType),
+        typeof(DG.Tweening.RotateMode),
+        typeof(DG.Tweening.ScrambleMode),
+        typeof(DG.Tweening.TweenType),
+        typeof(DG.Tweening.UpdateType),
+        typeof(DG.Tweening.DOTween),
+        typeof(DG.Tweening.DOVirtual),
+        typeof(DG.Tweening.EaseFactory),
+        typeof(DG.Tweening.Tweener),
+        typeof(DG.Tweening.Tween),
+        typeof(DG.Tweening.Sequence),
+        typeof(DG.Tweening.TweenParams),
+        typeof(DG.Tweening.Core.ABSSequentiable),
+        typeof(DG.Tweening.Core.TweenerCore<Vector3, Vector3, DG.Tweening.Plugins.Options.VectorOptions>),
+        typeof(DG.Tweening.TweenCallback),
+        typeof(DG.Tweening.TweenExtensions),
+        typeof(DG.Tweening.TweenSettingsExtensions),
+        typeof(DG.Tweening.ShortcutExtensions),
+        
         // System
         typeof(System.GC),
         typeof(System.IO.Directory),
@@ -290,13 +289,14 @@ public static class XLuaGenConfig
         new List<string>(){"UnityEngine.Light", "shadowRadius"},
         new List<string>(){"UnityEngine.Light", "shadowAngle"},
         new List<string>(){"UnityEngine.AnimatorOverrideController", "PerformOverrideClipListCleanup"},
-#if !UNITY_WEBPLAYER
+#if !UNITY_WEBPLAYER 
         new List<string>(){"UnityEngine.Application", "ExternalEval"},
 #endif
         new List<string>(){"UnityEngine.GameObject", "networkView"}, //4.6.2 not support
         new List<string>(){"UnityEngine.Component", "networkView"},  //4.6.2 not support
         new List<string>(){"System.IO.FileInfo", "GetAccessControl", "System.Security.AccessControl.AccessControlSections"},
         new List<string>(){"System.IO.FileInfo", "SetAccessControl", "System.Security.AccessControl.FileSecurity"},
+        
         new List<string>(){"System.IO.DirectoryInfo", "GetAccessControl", "System.Security.AccessControl.AccessControlSections"},
         new List<string>(){"System.IO.DirectoryInfo", "SetAccessControl", "System.Security.AccessControl.DirectorySecurity"},
         new List<string>(){"System.IO.DirectoryInfo", "CreateSubdirectory", "System.String", "System.Security.AccessControl.DirectorySecurity"},
