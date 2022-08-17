@@ -48,6 +48,7 @@
      <Compile Include="Assets\XLua\Src\RawObject.cs" />
      <Compile Include="Assets\XLua\Examples\11_RawObject\RawObjectTest.cs" />
      <Compile Include="Assets\XLua\Src\TemplateEngine\TemplateEngine.cs" />
+     <Compile Include="Assets\Scripts\Utility\DontDestroyOnLoad.cs" />
      <Compile Include="Assets\XLua\Examples\06_Coroutine\CoroutineTest.cs" />
      <Compile Include="Assets\XLua\Examples\12_ReImplementInLua\ReImplementInLua.cs" />
      <Compile Include="Assets\XLua\Examples\06_Coroutine\Coroutine_Runner.cs" />
@@ -56,6 +57,7 @@
      <Compile Include="Assets\Scripts\AppConsts.cs" />
      <Compile Include="Assets\XLua\Examples\08_Hotfix\HotfixTest2.cs" />
      <Compile Include="Assets\XLua\Src\ObjectPool.cs" />
+     <Compile Include="Assets\XluaExample\LuaCallCSharp\LuaCallCS.cs" />
      <Compile Include="Assets\Scripts\Utility\Utility.cs" />
      <Compile Include="Assets\Scripts\Core\LuaBehaviour.cs" />
      <Compile Include="Assets\XLua\Examples\02_U3DScripting\LuaBehaviour.cs" />
@@ -63,6 +65,7 @@
      <Compile Include="Assets\XLua\Examples\10_SignatureLoader\SignatureLoaderTest.cs" />
      <Compile Include="Assets\Scripts\LuaEnv\LuaLoader.cs" />
      <Compile Include="Assets\XLua\Tutorial\LuaCallCSharp\LuaCallCs.cs" />
+     <Compile Include="Assets\Scripts\Main.cs" />
      <Compile Include="Assets\XLua\Examples\04_LuaObjectOrented\InvokeLua.cs" />
      <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
      <Compile Include="Assets\XLua\Examples\07_AsyncTest\MessageBox.cs" />
@@ -89,15 +92,14 @@
      <Compile Include="Assets\XLua\Src\DelegateBridge.cs" />
      <Compile Include="Assets\XLua\Examples\09_GenericMethod\GenericMethodExample.cs" />
      <Compile Include="Assets\XLua\Src\GenericDelegateBridge.cs" />
+     <Compile Include="Assets\XluaExample\CSharpCallLua\CSCallLua.cs" />
      <Compile Include="Assets\XLua\Src\CopyByValue.cs" />
      <Compile Include="Assets\XLua\Src\StaticLuaCallbacks.cs" />
      <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
      <Compile Include="Assets\Scripts\LuaEnv\XLuaGenConfig.cs" />
      <Compile Include="Assets\XLua\Src\InternalGlobals.cs" />
-     <Compile Include="Assets\XluaExample\CSharpCallLua\CSCallLua.cs" />
-     <Compile Include="Assets\XluaExample\LuaCallCSharp\LuaCallCS.cs" />
-     <Compile Include="Assets\Scripts\Main.cs" />
-     <Compile Include="Assets\Scripts\Utility\DontDestroyOnLoad.cs" />
+     <Compile Include="Assets\Scripts\Core\AssetsManager.cs" />
+     <Compile Include="Assets\Scripts\Core\AssetManifest.cs" />
      <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\async_test.lua.txt" />
      <None Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\Resources\byfile.lua.txt" />
      <None Include="Assets\XLua\Examples\06_Coroutine\Resources\coruntine_test.lua.txt" />
