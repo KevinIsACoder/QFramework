@@ -2,7 +2,7 @@
  * @Author: zhendong liang
  * @Date: 2022-08-17 16:12:48
  * @LastEditors: Do not edit
- * @LastEditTime: 2022-08-24 15:51:00
+ * @LastEditTime: 2022-08-24 18:39:53
  * @Description: 资源序列化
  */
 using System.Collections;
@@ -34,6 +34,8 @@ namespace QFramWork
             public int dependents;
             [SerializeField]
             public int[] depends;
+            [SerializeField]
+            public int size; //文件大小
         }
 
         [SerializeField]

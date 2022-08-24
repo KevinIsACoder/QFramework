@@ -103,6 +103,7 @@
      <Compile Include="Assets\Scripts\Core\Singleton.cs" />
      <Compile Include="Assets\Scripts\Utility\ObjectPool.cs" />
      <Compile Include="Assets\Scripts\Utility\Disposable.cs" />
+     <Compile Include="Assets\Scripts\Utility\ObjectCachePool.cs" />
      <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\async_test.lua.txt" />
      <None Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\Resources\byfile.lua.txt" />
      <None Include="Assets\XLua\Examples\06_Coroutine\Resources\coruntine_test.lua.txt" />
