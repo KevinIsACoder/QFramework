@@ -21,7 +21,7 @@
  * @Author: zhendong liang
  * @Date: 2022-08-09 14:21:41
  * @LastEditors: Do not edit
- * @LastEditTime: 2022-08-11 15:58:49
+ * @LastEditTime: 2022-08-25 14:30:32
  * @Description: 游戏中的一些常量
  */
 
@@ -36,4 +36,5 @@ public static class AppConsts
     public static string persistentDataPath = Application.persistentDataPath;
     public static string dataPath = persistentDataPath + "/data";
     public static string assetPath = persistentDataPath + "/upd";
+    public static string staticAssetsPath = Application.streamingAssetsPath + "/StaticAssets";
 }
