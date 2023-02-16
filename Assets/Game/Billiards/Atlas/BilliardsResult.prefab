@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5804173208274304756
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6315443163206227545}
+  - component: {fileID: 1309739300573682843}
+  m_Layer: 0
+  m_Name: BilliardsResult
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6315443163206227545
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5804173208274304756}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1309739300573682843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5804173208274304756}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20b2b35b04f5a74d8c26af7cff3b3d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  replacement: {fileID: 0}
+  m_Sprites:
+  - {fileID: 21300000, guid: cea01630e5391f14ab805913e5000ca0, type: 3}
+  - {fileID: 21300000, guid: a3efcb4f63d043a4289803ae78759a74, type: 3}
+  - {fileID: 21300000, guid: 48bed57a6ecd28c42b93f6e81eba842a, type: 3}
+  - {fileID: 21300000, guid: 8f4ac7a7400acb14081ab4a3d4735e42, type: 3}
+  - {fileID: 21300000, guid: 8699fd930fa3ae94986e6cdd33964898, type: 3}
+  - {fileID: 21300000, guid: 653ddb02322a2084d9805ea5c03532c9, type: 3}
+  - {fileID: 21300000, guid: ea7b9d83740637f41b8e0d22ad012da0, type: 3}
+  - {fileID: 21300000, guid: c4b9de3bfddbe3f4cab78715001ecf61, type: 3}
+  - {fileID: 21300000, guid: 9c94c9007e039ac4facdda707d98c880, type: 3}
+  - {fileID: 21300000, guid: 242006d937a5bf24c94f8c1dc23d09d7, type: 3}
+  - {fileID: 21300000, guid: 9c25c443b026f6249a4d5f51abf53d5b, type: 3}
+  - {fileID: 21300000, guid: 122e1d17770d7e4489db8250f4f082b5, type: 3}
+  - {fileID: 21300000, guid: 048be0cb39a932348a30cfc335a0ad66, type: 3}
+  - {fileID: 21300000, guid: d49d8af5c98693b48a69f7a7cd641af7, type: 3}
+  - {fileID: 21300000, guid: 85952d67f529e2b4c9e7a32cabefe83d, type: 3}
+  m_SpriteNames:
+  - again
+  - bg_light
+  - billiardsline
+  - button
+  - cancel
+  - crown
+  - Cue_double
+  - head
+  - line
+  - medal1
+  - medal2
+  - medal3
+  - panel
+  - paper
+  - point

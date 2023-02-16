@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5421734893725737452
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 21346949190568292}
+  - component: {fileID: 5686788125944831003}
+  m_Layer: 0
+  m_Name: BillardReady
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &21346949190568292
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5421734893725737452}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5686788125944831003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5421734893725737452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20b2b35b04f5a74d8c26af7cff3b3d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  replacement: {fileID: 0}
+  m_Sprites:
+  - {fileID: 21300000, guid: b808c62da734b3849be4e43258f09821, type: 3}
+  - {fileID: 21300000, guid: ed64c1f68bbf319438d7fd2912f55fde, type: 3}
+  - {fileID: 21300000, guid: d7ee68f858bb3344182fbf6570fa5b78, type: 3}
+  - {fileID: 21300000, guid: 192515d9d1d08164ebb74881561dcfb6, type: 3}
+  - {fileID: 21300000, guid: af598e61dc778d446868d078b24387a9, type: 3}
+  - {fileID: 21300000, guid: 68fd9a1c531958740ac726423aa53fa7, type: 3}
+  - {fileID: 21300000, guid: 3dbd43a09409aa24eb5955c9e35fc7d7, type: 3}
+  - {fileID: 21300000, guid: e6c318174fd4d8e49bb4da01901bbfc3, type: 3}
+  - {fileID: 21300000, guid: 4c14d72d0560c3644971f6f304dae574, type: 3}
+  - {fileID: 21300000, guid: 7940cc3a63967d04794b4e766389e63c, type: 3}
+  - {fileID: 21300000, guid: 02d4c140c5b79d140903a7296912cfa7, type: 3}
+  - {fileID: 21300000, guid: d22b25c937785484ba1812d5990582bb, type: 3}
+  - {fileID: 21300000, guid: bb2e9d9e5f5fe904fabf61e423e3c03f, type: 3}
+  - {fileID: 21300000, guid: 01a7159343c17bb4ea45cf3a9b2b01c7, type: 3}
+  - {fileID: 21300000, guid: 3635dcb7b8565f3439d0be763f9a8242, type: 3}
+  - {fileID: 21300000, guid: d2503de0b4d16bc44abe594641988bc0, type: 3}
+  - {fileID: 21300000, guid: 7483c3854483d52428952d41f7613e08, type: 3}
+  - {fileID: 21300000, guid: 986e24fcea922134991a691bf5e270f8, type: 3}
+  - {fileID: 21300000, guid: c54089f21b5322c46806a2bee3483525, type: 3}
+  - {fileID: 21300000, guid: 373b05e3051e09b4883e1cc99746b3b2, type: 3}
+  m_SpriteNames:
+  - button
+  - button_blue
+  - button_mic
+  - button_mode_normal1
+  - button_mode_yes
+  - button_Move
+  - button_music
+  - button_option
+  - button_orange
+  - button_pan
+  - button_rulers
+  - cannel
+  - icon_02
+  - instructions_icon
+  - logo
+  - popo_g
+  - star_bgicon
+  - star_bgicon1
+  - time_02
+  - time_bar0

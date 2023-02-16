@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2511345981281823067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9201524378853748422}
+  - component: {fileID: 5456712182955354188}
+  m_Layer: 0
+  m_Name: BillardsRule
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9201524378853748422
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2511345981281823067}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5456712182955354188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2511345981281823067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20b2b35b04f5a74d8c26af7cff3b3d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  replacement: {fileID: 0}
+  m_Sprites:
+  - {fileID: 21300000, guid: 73b14c004e8bdac4cbe1ad60f49e1888, type: 3}
+  - {fileID: 21300000, guid: e55e53506170a234587057f5d2482785, type: 3}
+  - {fileID: 21300000, guid: 5bd8e0ed9fe4e824d84bbc0982762676, type: 3}
+  - {fileID: 21300000, guid: 8c59698a361c8c44e993c634adca9e9c, type: 3}
+  - {fileID: 21300000, guid: 6037a989a7b6ee941bb08df3f7f95ac3, type: 3}
+  - {fileID: 21300000, guid: fbb40325163e3ad4d92880ced6f67586, type: 3}
+  - {fileID: 21300000, guid: 4e84834670094734c913fbaeec5e81fd, type: 3}
+  - {fileID: 21300000, guid: 5d9be2aef6d765b4d99b358cfc5f0761, type: 3}
+  - {fileID: 21300000, guid: c78a41e5a8f5d5542b025bb157b2d175, type: 3}
+  - {fileID: 21300000, guid: 6ced4f87cb147f64e8c31237664aaf58, type: 3}
+  - {fileID: 21300000, guid: 5cc14187337a76448b82de0b7ef1aef5, type: 3}
+  - {fileID: 21300000, guid: 57927501e68500f46b44efb60a38709a, type: 3}
+  - {fileID: 21300000, guid: 3eb33462ca6813541975db40c716eb8f, type: 3}
+  - {fileID: 21300000, guid: 6bb28de9e2e3763498316b8acf4e0ddd, type: 3}
+  - {fileID: 21300000, guid: 482a3f2cbd3554d208496e8a18af781a, type: 3}
+  - {fileID: 21300000, guid: dbf157efcdb132c45b9f50c167c60bf2, type: 3}
+  - {fileID: 21300000, guid: f9d766caa7ad52d45bdba4b9d10ac91a, type: 3}
+  - {fileID: 21300000, guid: 50d20bb62ea097b429a46061549558cd, type: 3}
+  - {fileID: 21300000, guid: ba9d83a662e063345871f7c4ad303f0a, type: 3}
+  - {fileID: 21300000, guid: 64225d417d3a6854c87c3955420f90a7, type: 3}
+  - {fileID: 21300000, guid: 4402ec5d3b3ac284a80f0427fc8aba92, type: 3}
+  m_SpriteNames:
+  - 1
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 9
+  - bar
+  - blackpannel_1
+  - blackpannel_2
+  - blackpannel_3
+  - blackpannel_4
+  - cancel
+  - line

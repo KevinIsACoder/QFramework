@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6218421031868746725
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1520872350710796101}
+  - component: {fileID: 6956780187929581743}
+  m_Layer: 0
+  m_Name: BillardsMain
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1520872350710796101
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6218421031868746725}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6956780187929581743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6218421031868746725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20b2b35b04f5a74d8c26af7cff3b3d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  replacement: {fileID: 0}
+  m_Sprites:
+  - {fileID: 21300000, guid: 221027d7eee880b4c86bb294b6b1772d, type: 3}
+  - {fileID: 21300000, guid: e3cdd2e099568ac449b0c12cf83fcb51, type: 3}
+  - {fileID: 21300000, guid: a0e4b56c69b9278479ec8a83957d071a, type: 3}
+  - {fileID: 21300000, guid: 331ca6b86ad364699b47d03551e0bbbf, type: 3}
+  - {fileID: 21300000, guid: 1e0b9c7ee105347d9bbfd21b99882988, type: 3}
+  - {fileID: 21300000, guid: e18b7cdfc50a39e4b958c8d090983302, type: 3}
+  - {fileID: 21300000, guid: b8c7f41fe9bb01947ba35348f54959ce, type: 3}
+  - {fileID: 21300000, guid: 5532256a95bdfd14f99fd6e482eb6aac, type: 3}
+  - {fileID: 21300000, guid: 0ae87584709d2ba488a85ab366b6bd35, type: 3}
+  - {fileID: 21300000, guid: 76bd2b185e05b3c47bb2db244534e29c, type: 3}
+  - {fileID: 21300000, guid: fcad21cb68bc24949ab278e7a2bf92de, type: 3}
+  - {fileID: 21300000, guid: af43b2bb8fcd4b0449ed81ec421ca652, type: 3}
+  - {fileID: 21300000, guid: 36cda424affd4844d98babc8650bbaf2, type: 3}
+  - {fileID: 21300000, guid: b17d583216cf9d742ae211066eb97f80, type: 3}
+  - {fileID: 21300000, guid: ce82e3652ed5baf439662e75a5ae697e, type: 3}
+  - {fileID: 21300000, guid: 6cd040325010ec044b9be5af18541263, type: 3}
+  - {fileID: 21300000, guid: 7e8e82cc2acbf07449dcab5047032deb, type: 3}
+  - {fileID: 21300000, guid: e7790bdcf3a07014c8b2d06c573182e7, type: 3}
+  - {fileID: 21300000, guid: a34f3f2c7d8062d45bb4bb609f52f533, type: 3}
+  - {fileID: 21300000, guid: 4b0084b3221313241b65f3d4202e2852, type: 3}
+  - {fileID: 21300000, guid: 303845c5f1decf4418197636aff6d0a5, type: 3}
+  - {fileID: 21300000, guid: 42805beec1d256f4bab20cec0ee87988, type: 3}
+  - {fileID: 21300000, guid: 0c28c39d8ef35384b86edd54477eb917, type: 3}
+  - {fileID: 21300000, guid: d5ef7f5bdc35e472c9512b29f57e05c8, type: 3}
+  - {fileID: 21300000, guid: 438c4df6fc4897944905f7184a5c4e92, type: 3}
+  - {fileID: 21300000, guid: 4cd289abda930e5449c2c4145fd0e8a7, type: 3}
+  - {fileID: 21300000, guid: 339a0cb5bcec4774c93d57c2e2dc9084, type: 3}
+  - {fileID: 21300000, guid: 83fbb9d1213a9064cb171bd048434231, type: 3}
+  - {fileID: 21300000, guid: f98e6930ed37d374481b41111dfc0e08, type: 3}
+  - {fileID: 21300000, guid: da784fe6169a19b4ab9ea3822854362c, type: 3}
+  - {fileID: 21300000, guid: 1776bc6d0e38748d3958204b536a1bf2, type: 3}
+  - {fileID: 21300000, guid: f9942958586ba4caaa49a421ec5b6423, type: 3}
+  - {fileID: 21300000, guid: c79463941671742f79ed0d2497d7489f, type: 3}
+  - {fileID: 21300000, guid: 66a3c955f90cd4e5f98af47d2d85b4a5, type: 3}
+  - {fileID: 21300000, guid: b4f1e9bb57f134c42ad1e35f21780dbf, type: 3}
+  - {fileID: 21300000, guid: 4d0802acbb1d1504b9610862dfc8d944, type: 3}
+  - {fileID: 21300000, guid: b5bb2415e7f084164bbc7cc17bc3accb, type: 3}
+  - {fileID: 21300000, guid: d45292fe5db381342807fee9a1572fff, type: 3}
+  - {fileID: 21300000, guid: e36622199133ad342a16dcf7ab1d1ed1, type: 3}
+  - {fileID: 21300000, guid: 6b3ac0738874e3f42ade256f9f89dd9a, type: 3}
+  - {fileID: 21300000, guid: 26ff6fe23ea9aea47a2562fa7f66c740, type: 3}
+  - {fileID: 21300000, guid: 012183e0c4238704ab448a1f7f89b80f, type: 3}
+  - {fileID: 21300000, guid: f526e48af666a6240a267a1224cfcc23, type: 3}
+  - {fileID: 21300000, guid: 7b1220840b59af54697684998eb4eafc, type: 3}
+  - {fileID: 21300000, guid: 5cf350d9da69df145ae7163fd7d21b37, type: 3}
+  - {fileID: 21300000, guid: 64d81eb4dbc349743b14c0c32c947602, type: 3}
+  - {fileID: 21300000, guid: a21015141c3166f4e834630a05864133, type: 3}
+  - {fileID: 21300000, guid: 5daa919935455d247909e5e9f10c56be, type: 3}
+  - {fileID: 21300000, guid: 8d1e38f06781f25489d78ad4bcffaab8, type: 3}
+  m_SpriteNames:
+  - angleCtrBg
+  - angleCtrl
+  - arrow
+  - back
+  - back2
+  - ball0
+  - ball1
+  - ball10
+  - ball11
+  - ball12
+  - ball13
+  - ball14
+  - ball15
+  - ball2
+  - ball3
+  - ball4
+  - ball5
+  - ball6
+  - ball7
+  - ball8
+  - ball9
+  - ballbar
+  - bar
+  - biaochi
+  - button_option
+  - button_rulers
+  - cancel
+  - circlebg
+  - Cue
+  - Cue_power
+  - disable
+  - guideerror
+  - guideline_01
+  - guidepiont
+  - hand
+  - head
+  - mask
+  - namebar
+  - power_bar
+  - power_line
+  - quan
+  - rectbg
+  - rectbg_1
+  - shadow
+  - time_bar
+  - timebar_01
+  - timebg
+  - timelight
+  - timeline

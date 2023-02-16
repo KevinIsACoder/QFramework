@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Raw/Game/Billiards/Spine/taiqiu_vs_Material.mat.meta
+guid: b946f45d99bfd4dbb9e7b97c8094bc21
+========
+guid: b552319733bc54132aa64d9978679f54
+>>>>>>>> develop:Assets/Raw/Game/DrawGuess/Spine/duicuo/haucai_dui_Material.mat.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

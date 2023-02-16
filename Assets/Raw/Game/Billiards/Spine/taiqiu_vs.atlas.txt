@@ -1,0 +1,181 @@
+
+taiqiu_vs.png
+size: 836,832
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 430, 614
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 352, 391
+  size: 120, 8
+  orig: 120, 8
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 723, 167
+  size: 120, 8
+  orig: 120, 8
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 78
+  size: 212, 8
+  orig: 212, 8
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 198, 332
+  size: 266, 152
+  orig: 266, 152
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 352, 401
+  size: 128, 197
+  orig: 128, 197
+  offset: 0, 0
+  index: -1
+15a
+  rotate: false
+  xy: 2, 546
+  size: 194, 284
+  orig: 194, 284
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 68
+  size: 212, 8
+  orig: 212, 8
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 548, 324
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 177, 138
+  size: 120, 8
+  orig: 120, 8
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 2, 38
+  size: 120, 8
+  orig: 120, 8
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 2, 58
+  size: 212, 8
+  orig: 212, 8
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 430, 678
+  size: 266, 152
+  orig: 266, 152
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 698, 633
+  size: 134, 197
+  orig: 134, 197
+  offset: 0, 0
+  index: -1
+8a
+  rotate: false
+  xy: 2, 260
+  size: 194, 284
+  orig: 194, 284
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 48
+  size: 212, 8
+  orig: 212, 8
+  offset: 0, 0
+  index: -1
+Glow005_1
+  rotate: false
+  xy: 198, 600
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+image/bz/bz_02
+  rotate: false
+  xy: 2, 88
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+image/bz/bz_03
+  rotate: false
+  xy: 482, 506
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+image/bz/bz_04
+  rotate: false
+  xy: 482, 334
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+image/bz/bz_05
+  rotate: false
+  xy: 657, 461
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+image/bz/bz_06
+  rotate: false
+  xy: 657, 289
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+image/bz/bz_07
+  rotate: false
+  xy: 198, 160
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+image/bz/bz_08
+  rotate: false
+  xy: 373, 162
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+image/bz/bz_09
+  rotate: false
+  xy: 548, 117
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1

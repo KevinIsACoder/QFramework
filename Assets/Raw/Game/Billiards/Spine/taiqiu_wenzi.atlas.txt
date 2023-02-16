@@ -1,0 +1,27 @@
+
+taiqiu_wenzi.png
+size: 504,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 2, 419
+  size: 499, 80
+  orig: 499, 80
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 339
+  size: 491, 78
+  orig: 491, 78
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 321
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1

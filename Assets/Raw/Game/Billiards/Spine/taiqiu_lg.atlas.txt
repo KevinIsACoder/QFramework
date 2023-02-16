@@ -1,0 +1,160 @@
+
+taiqiu_lg.png
+size: 452,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 330, 283
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 335
+  size: 448, 41
+  orig: 448, 41
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 253
+  size: 326, 70
+  orig: 326, 70
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 378
+  size: 442, 70
+  orig: 442, 70
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 140, 29
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 330
+  size: 425, 3
+  orig: 425, 3
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 325
+  size: 425, 3
+  orig: 425, 3
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 210
+  size: 293, 41
+  orig: 293, 41
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 330, 241
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+cc
+  rotate: false
+  xy: 2, 183
+  size: 206, 25
+  orig: 206, 25
+  offset: 0, 0
+  index: -1
+lizi/lizi_09
+  rotate: false
+  xy: 2, 147
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_10
+  rotate: false
+  xy: 2, 111
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_11
+  rotate: false
+  xy: 2, 75
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_12
+  rotate: false
+  xy: 2, 39
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_13
+  rotate: true
+  xy: 140, 45
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_14
+  rotate: false
+  xy: 2, 3
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_15
+  rotate: true
+  xy: 176, 45
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_16
+  rotate: true
+  xy: 212, 72
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_17
+  rotate: true
+  xy: 248, 72
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_18
+  rotate: true
+  xy: 284, 72
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_19
+  rotate: false
+  xy: 212, 36
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+lizi/lizi_20
+  rotate: true
+  xy: 320, 103
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1

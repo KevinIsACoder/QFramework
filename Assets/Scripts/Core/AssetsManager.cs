@@ -2,7 +2,7 @@
  * @Author: zhendong liang
  * @Date: 2022-08-17 15:30:56
  * @LastEditors: Do not edit
- * @LastEditTime: 2022-08-29 19:04:48
+ * @LastEditTime: 2022-12-13 12:03:42
  * @Description: 资源加载管理器
  */
 using System.Collections;
@@ -102,7 +102,7 @@ namespace QFramWork
                 path += ".prefab";
             
             KeyValuePair<int, int> kv;
-             
+            abRef = null;
             return path;
         }
     }

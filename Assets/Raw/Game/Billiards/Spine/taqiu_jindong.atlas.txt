@@ -1,0 +1,153 @@
+
+taqiu_jindong.png
+size: 564,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sx_57
+  rotate: false
+  xy: 2, 334
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_58
+  rotate: false
+  xy: 2, 220
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_59
+  rotate: false
+  xy: 2, 106
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_60
+  rotate: true
+  xy: 112, 452
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_61
+  rotate: true
+  xy: 226, 452
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_62
+  rotate: true
+  xy: 340, 452
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_63
+  rotate: false
+  xy: 454, 448
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_64
+  rotate: true
+  xy: 112, 342
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_65
+  rotate: true
+  xy: 226, 342
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_66
+  rotate: true
+  xy: 340, 342
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_67
+  rotate: false
+  xy: 454, 334
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_68
+  rotate: false
+  xy: 112, 228
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_69
+  rotate: true
+  xy: 222, 232
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_70
+  rotate: true
+  xy: 336, 232
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_71
+  rotate: true
+  xy: 450, 224
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_72
+  rotate: true
+  xy: 222, 122
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_73
+  rotate: false
+  xy: 112, 114
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_74
+  rotate: true
+  xy: 336, 122
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_75
+  rotate: true
+  xy: 450, 114
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_76
+  rotate: false
+  xy: 222, 8
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+sx_77
+  rotate: false
+  xy: 2, 448
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1

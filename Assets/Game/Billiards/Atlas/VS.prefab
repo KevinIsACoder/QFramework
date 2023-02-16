@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5658090524040286834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6392255352669828745}
+  - component: {fileID: 5441526748188347391}
+  m_Layer: 0
+  m_Name: VS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6392255352669828745
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5658090524040286834}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5441526748188347391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5658090524040286834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20b2b35b04f5a74d8c26af7cff3b3d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  replacement: {fileID: 0}
+  m_Sprites:
+  - {fileID: 21300000, guid: 32962030bd0955f419f8048a8121b320, type: 3}
+  - {fileID: 21300000, guid: f7a7ebf78c165f3469fb8dcc9d369c24, type: 3}
+  - {fileID: 21300000, guid: e3c86a0c922ff504e90a0db375a83cae, type: 3}
+  - {fileID: 21300000, guid: bacce184025856a45ab8a16dc7b0822a, type: 3}
+  - {fileID: 21300000, guid: 0ad202650b089b84dbc26be3c7cfa09d, type: 3}
+  - {fileID: 21300000, guid: 4aac78c49f2380e489abed4fd64e7392, type: 3}
+  - {fileID: 21300000, guid: 63c67fbc6ea83e54cbda7471b0cb5aa5, type: 3}
+  - {fileID: 21300000, guid: 7231aa95ad608684a921428eee889aff, type: 3}
+  - {fileID: 21300000, guid: 568ccfb4efc5949408a1618b7cdb8e8a, type: 3}
+  - {fileID: 21300000, guid: bf91c30f9d9ca4b4990cd440696204ce, type: 3}
+  - {fileID: 21300000, guid: 11a9f197b0302184e86e71ce8ed93391, type: 3}
+  - {fileID: 21300000, guid: acf9360bb96569c42bb6eba4d6683c15, type: 3}
+  - {fileID: 21300000, guid: d96968ea3039d5d4eb3f21e6aa224b2b, type: 3}
+  - {fileID: 21300000, guid: 9c9bfa9988ddb93479327c381b6d8160, type: 3}
+  - {fileID: 21300000, guid: cb1e6ebdbb283f04389ce32a6d386bde, type: 3}
+  - {fileID: 21300000, guid: 36a6687005f8c9f4990abbe08810f4df, type: 3}
+  - {fileID: 21300000, guid: 47b43ad71d4764c49bcbcf83ea5ae4fe, type: 3}
+  m_SpriteNames:
+  - bluebg
+  - circlebg
+  - head
+  - light
+  - red_pannel
+  - S
+  - speedline_blue1
+  - speedline_blue2
+  - speedline_blue3
+  - speedline_blue4
+  - speedline_blue5
+  - speedline_red01
+  - speedline_red02
+  - speedline_red03
+  - speedline_red04
+  - speedline_red05
+  - V

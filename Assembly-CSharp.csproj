@@ -42,6 +42,7 @@
      <Compile Include="Assets\XLua\Examples\08_Hotfix\HotfixTest.cs" />
      <Compile Include="Assets\XLua\Src\LuaDLL.cs" />
      <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\ByFile.cs" />
+     <Compile Include="Assets\Scripts\Utility\ObjectCache.cs" />
      <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\Loader\CustomLoader.cs" />
      <Compile Include="Assets\XLua\Src\Utils.cs" />
      <Compile Include="Assets\XLua\Examples\09_GenericMethod\Foo.cs" />
@@ -49,6 +50,7 @@
      <Compile Include="Assets\XLua\Examples\11_RawObject\RawObjectTest.cs" />
      <Compile Include="Assets\XLua\Src\TemplateEngine\TemplateEngine.cs" />
      <Compile Include="Assets\Scripts\Utility\DontDestroyOnLoad.cs" />
+     <Compile Include="Assets\Scripts\Utility\ObjectPool.cs" />
      <Compile Include="Assets\XLua\Examples\06_Coroutine\CoroutineTest.cs" />
      <Compile Include="Assets\XLua\Examples\12_ReImplementInLua\ReImplementInLua.cs" />
      <Compile Include="Assets\XLua\Examples\06_Coroutine\Coroutine_Runner.cs" />
@@ -56,6 +58,7 @@
      <Compile Include="Assets\XLua\Examples\08_Hotfix\StatefullTest.cs" />
      <Compile Include="Assets\Scripts\AppConsts.cs" />
      <Compile Include="Assets\XLua\Examples\08_Hotfix\HotfixTest2.cs" />
+     <Compile Include="Assets\Scripts\Utility\AssetBundleReference.cs" />
      <Compile Include="Assets\XLua\Src\ObjectPool.cs" />
      <Compile Include="Assets\XluaExample\LuaCallCSharp\LuaCallCS.cs" />
      <Compile Include="Assets\Scripts\Utility\Utility.cs" />
@@ -91,25 +94,26 @@
      <Compile Include="Assets\XLua\Src\LuaException.cs" />
      <Compile Include="Assets\XLua\Src\DelegateBridge.cs" />
      <Compile Include="Assets\XLua\Examples\09_GenericMethod\GenericMethodExample.cs" />
+     <Compile Include="Assets\Scripts\Core\AssetManifest.cs" />
      <Compile Include="Assets\XLua\Src\GenericDelegateBridge.cs" />
      <Compile Include="Assets\XluaExample\CSharpCallLua\CSCallLua.cs" />
      <Compile Include="Assets\XLua\Src\CopyByValue.cs" />
      <Compile Include="Assets\XLua\Src\StaticLuaCallbacks.cs" />
      <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
+     <Compile Include="Assets\Scripts\Core\Singleton.cs" />
+     <Compile Include="Assets\Scripts\Core\AssetsManager.cs" />
      <Compile Include="Assets\Scripts\LuaEnv\XLuaGenConfig.cs" />
      <Compile Include="Assets\XLua\Src\InternalGlobals.cs" />
-     <Compile Include="Assets\Scripts\Core\AssetsManager.cs" />
-     <Compile Include="Assets\Scripts\Core\AssetManifest.cs" />
-     <Compile Include="Assets\Scripts\Core\Singleton.cs" />
-     <Compile Include="Assets\Scripts\Utility\ObjectPool.cs" />
      <Compile Include="Assets\Scripts\Utility\Disposable.cs" />
-     <Compile Include="Assets\Scripts\Utility\ObjectCache.cs" />
-     <Compile Include="Assets\Scripts\Utility\AssetBundleReference.cs" />
      <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\async_test.lua.txt" />
      <None Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\Resources\byfile.lua.txt" />
+     <None Include="Assets\Raw\Game\Billiards\Spine\taiqiu_vs.atlas.txt" />
      <None Include="Assets\XLua\Examples\06_Coroutine\Resources\coruntine_test.lua.txt" />
      <None Include="Assets\XLua\Resources\xlua\util.lua.txt" />
+     <None Include="Assets\Raw\Game\Billiards\Spine\taqiu_jindong.atlas.txt" />
      <None Include="Assets\XLua\Resources\perf\profiler.lua.txt" />
+     <None Include="Assets\Raw\Game\Billiards\Spine\taiqiu_wenzi.atlas.txt" />
+     <None Include="Assets\Raw\Game\Billiards\Spine\taiqiu_lg.atlas.txt" />
      <None Include="Assets\XLua\Resources\perf\memory.lua.txt" />
      <None Include="Assets\XLua\Examples\03_UIEvent\ButtonInteraction.lua.txt" />
      <None Include="Assets\XLua\Examples\02_U3DScripting\LuaTestScript.lua.txt" />
@@ -118,6 +122,7 @@
      <None Include="Assets\XLua\Resources\tdr\tdr.lua.txt" />
      <None Include="Assets\XLua\CHANGELOG.txt" />
      <None Include="Assets\XLua\Examples\06_Coroutine\Resources\cs_coroutine.lua.txt" />
+     <None Include="Assets\Raw\Game\Billiards\Spine\taiqiu_logo.atlas.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
