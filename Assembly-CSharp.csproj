@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_27;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;UNITY_UGP_API;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_IG;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_CLOUD_FEATURES;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;GAME_FRAMEWORK;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_27;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;UNITY_UGP_API;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_IG;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_CLOUD_FEATURES;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;GAME_FRAMEWORK;TextMeshPro;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -36,424 +36,635 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\XLua\Src\ObjectTranslatorPool.cs" />
-     <Compile Include="Assets\XLua\Src\LuaTable.cs" />
-     <Compile Include="Assets\XLua\Examples\01_Helloworld\Helloworld.cs" />
-     <Compile Include="Assets\XLua\Examples\08_Hotfix\HotfixTest.cs" />
-     <Compile Include="Assets\XLua\Src\LuaDLL.cs" />
-     <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\ByFile.cs" />
-     <Compile Include="Assets\Scripts\Utility\ObjectCache.cs" />
-     <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\Loader\CustomLoader.cs" />
-     <Compile Include="Assets\XLua\Src\Utils.cs" />
-     <Compile Include="Assets\XLua\Examples\09_GenericMethod\Foo.cs" />
-     <Compile Include="Assets\XLua\Src\RawObject.cs" />
-     <Compile Include="Assets\XLua\Examples\11_RawObject\RawObjectTest.cs" />
-     <Compile Include="Assets\XLua\Src\TemplateEngine\TemplateEngine.cs" />
-     <Compile Include="Assets\Scripts\Utility\DontDestroyOnLoad.cs" />
-     <Compile Include="Assets\Scripts\Utility\ObjectPool.cs" />
-     <Compile Include="Assets\XLua\Examples\06_Coroutine\CoroutineTest.cs" />
-     <Compile Include="Assets\XLua\Examples\12_ReImplementInLua\ReImplementInLua.cs" />
-     <Compile Include="Assets\XLua\Examples\06_Coroutine\Coroutine_Runner.cs" />
-     <Compile Include="Assets\XLua\Src\MethodWarpsCache.cs" />
-     <Compile Include="Assets\XLua\Examples\08_Hotfix\StatefullTest.cs" />
-     <Compile Include="Assets\Scripts\AppConsts.cs" />
-     <Compile Include="Assets\XLua\Examples\08_Hotfix\HotfixTest2.cs" />
-     <Compile Include="Assets\Scripts\Utility\AssetBundleReference.cs" />
-     <Compile Include="Assets\XLua\Src\ObjectPool.cs" />
-     <Compile Include="Assets\XluaExample\LuaCallCSharp\LuaCallCS.cs" />
-     <Compile Include="Assets\Scripts\Utility\Utility.cs" />
-     <Compile Include="Assets\Scripts\Core\LuaBehaviour.cs" />
-     <Compile Include="Assets\XLua\Examples\02_U3DScripting\LuaBehaviour.cs" />
-     <Compile Include="Assets\XLua\Src\LuaBase.cs" />
-     <Compile Include="Assets\XLua\Examples\10_SignatureLoader\SignatureLoaderTest.cs" />
-     <Compile Include="Assets\Scripts\LuaEnv\LuaLoader.cs" />
-     <Compile Include="Assets\XLua\Tutorial\LuaCallCSharp\LuaCallCs.cs" />
-     <Compile Include="Assets\Scripts\Main.cs" />
-     <Compile Include="Assets\XLua\Examples\04_LuaObjectOrented\InvokeLua.cs" />
-     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
-     <Compile Include="Assets\XLua\Examples\07_AsyncTest\MessageBox.cs" />
-     <Compile Include="Assets\XLua\Src\GenAttributes.cs" />
-     <Compile Include="Assets\XLua\Src\LuaFunction.cs" />
-     <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\ByString\ByString.cs" />
-     <Compile Include="Assets\XLua\Examples\05_NoGc\NoGc.cs" />
-     <Compile Include="Assets\XLua\Src\ObjectCasters.cs" />
-     <Compile Include="Assets\XLua\Src\SignatureLoader.cs" />
-     <Compile Include="Assets\XLua\Src\TypeExtensions.cs" />
-     <Compile Include="Assets\XLua\Src\ObjectTranslator.cs" />
-     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
-     <Compile Include="Assets\XLua\Src\LuaEnv.cs" />
-     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
-     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
-     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
-     <Compile Include="Assets\XLua\Tutorial\CSharpCallLua\CSCallLua.cs" />
-     <Compile Include="Assets\XLua\Src\CodeEmit.cs" />
-     <Compile Include="Assets\XLua\Examples\ExampleGenConfig.cs" />
-     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
-     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
-     <Compile Include="Assets\XLua\Examples\07_AsyncTest\AsyncTest.cs" />
-     <Compile Include="Assets\XLua\Src\LuaException.cs" />
-     <Compile Include="Assets\XLua\Src\DelegateBridge.cs" />
-     <Compile Include="Assets\XLua\Examples\09_GenericMethod\GenericMethodExample.cs" />
-     <Compile Include="Assets\Scripts\Core\AssetManifest.cs" />
-     <Compile Include="Assets\XLua\Src\GenericDelegateBridge.cs" />
-     <Compile Include="Assets\XluaExample\CSharpCallLua\CSCallLua.cs" />
-     <Compile Include="Assets\XLua\Src\CopyByValue.cs" />
-     <Compile Include="Assets\XLua\Src\StaticLuaCallbacks.cs" />
-     <Compile Include="Assets\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
-     <Compile Include="Assets\Scripts\Core\Singleton.cs" />
-     <Compile Include="Assets\Scripts\Core\AssetsManager.cs" />
-     <Compile Include="Assets\Scripts\LuaEnv\XLuaGenConfig.cs" />
-     <Compile Include="Assets\XLua\Src\InternalGlobals.cs" />
-     <Compile Include="Assets\Scripts\Utility\Disposable.cs" />
-     <Compile Include="Assets\Scripts\Managers\UpdateManager.cs" />
-     <Compile Include="Assets\GameFramework\DataTable\DataTableManager.cs" />
-     <Compile Include="Assets\GameFramework\Scene\LoadSceneFailureEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Sound\ISoundGroupHelper.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkManager.SendState.cs" />
      <Compile Include="Assets\GameFramework\Resource\ILoadResourceAgentHelper.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Compression.ICompressionHelper.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Encryption.cs" />
-     <Compile Include="Assets\GameFramework\Resource\IResourceManager.cs" />
-     <Compile Include="Assets\GameFramework\DataNode\IDataNode.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadAgentHelperUpdateLengthEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadAssetDependencyAssetCallback.cs" />
-     <Compile Include="Assets\GameFramework\DataTable\DataTableBase.cs" />
+     <Compile Include="Assets\XLua\Src\ObjectTranslatorPool.cs" />
      <Compile Include="Assets\GameFramework\Resource\LocalVersionList.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Text.ITextHelper.cs" />
+     <Compile Include="Assets\XLua\Src\LuaTable.cs" />
      <Compile Include="Assets\GameFramework\Fsm\FsmManager.cs" />
      <Compile Include="Assets\GameFramework\Sound\PlaySoundFailureEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Base\EventPool\EventPoolMode.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LocalVersionList.FileSystem.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadCounter.DownloadCounterNode.cs" />
-     <Compile Include="Assets\GameFramework\Sound\PlaySoundDependencyAssetEventArgs.cs" />
+     <Compile Include="Assets\XLua\Examples\01_Helloworld\Helloworld.cs" />
      <Compile Include="Assets\GameFramework\FileSystem\FileSystem.HeaderData.cs" />
      <Compile Include="Assets\GameFramework\Utility\Utility.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\FileSystem.cs" />
      <Compile Include="Assets\GameFramework\Download\DownloadUpdateEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceGroup.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Marshal.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.AssetInfo.cs" />
-     <Compile Include="Assets\GameFramework\ObjectPool\IObjectPoolManager.cs" />
-     <Compile Include="Assets\GameFramework\Resource\UnloadSceneCallbacks.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkClosedEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\DataTable\IDataTableManager.cs" />
-     <Compile Include="Assets\GameFramework\UI\CloseUIFormCompleteEventArgs.cs" />
      <Compile Include="Assets\GameFramework\DataNode\DataNodeManager.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkConnectedEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Utility\Utility.Converter.cs" />
-     <Compile Include="Assets\GameFramework\Localization\ILocalizationHelper.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceVerifier.VerifyInfo.cs" />
-     <Compile Include="Assets\GameFramework\Resource\UpdateResourcesCompleteCallback.cs" />
      <Compile Include="Assets\GameFramework\Procedure\ProcedureManager.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkManager.cs" />
-     <Compile Include="Assets\GameFramework\Scene\LoadSceneDependencyAssetEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Text.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Json.cs" />
+     <Compile Include="Assets\XLua\Examples\08_Hotfix\HotfixTest.cs" />
      <Compile Include="Assets\GameFramework\Resource\UpdatableVersionList.Resource.cs" />
-     <Compile Include="Assets\GameFramework\ObjectPool\ObjectPoolManager.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadAgent.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadTaskStatus.cs" />
-     <Compile Include="Assets\GameFramework\Scene\SceneManager.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadAgentHelperUpdateBytesEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Base\GameFrameworkEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperErrorEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceUpdateChangedEventArgs.cs" />
+     <Compile Include="Assets\XLua\Src\LuaDLL.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceVerifyFailureEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Sound\PlaySoundUpdateEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Base\ReferencePool\IReference.cs" />
-     <Compile Include="Assets\GameFramework\Entity\IEntityHelper.cs" />
      <Compile Include="Assets\GameFramework\WebRequest\WebRequestSuccessEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\CheckVersionListResult.cs" />
-     <Compile Include="Assets\GameFramework\Resource\UnloadSceneFailureCallback.cs" />
+     <Compile Include="Assets\GameFramework\Entity\IEntityHelper.cs" />
      <Compile Include="Assets\GameFramework\Resource\UpdatableVersionList.Asset.cs" />
-     <Compile Include="Assets\GameFramework\UI\IUIFormHelper.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkManager.HeartBeatState.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkManager.ConnectState.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceVerifySuccessEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadResourceTaskBase.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Random.cs" />
-     <Compile Include="Assets\GameFramework\Setting\ISettingHelper.cs" />
+     <Compile Include="Assets\GameFramework\Resource\UnloadSceneFailureCallback.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadBinaryInfo.cs" />
-     <Compile Include="Assets\GameFramework\Resource\PackageVersionList.Resource.cs" />
-     <Compile Include="Assets\GameFramework\ObjectPool\ObjectPoolBase.cs" />
-     <Compile Include="Assets\GameFramework\Base\Log\GameFrameworkLog.ILogHelper.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceUpdateAllCompleteEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\UI\IUIManager.cs" />
-     <Compile Include="Assets\GameFramework\ObjectPool\IObjectPool.cs" />
-     <Compile Include="Assets\GameFramework\Base\DataProvider\DataProviderCreator.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadAssetTask.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadResourceProgress.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\FileInfo.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.VersionListProcessor.cs" />
-     <Compile Include="Assets\GameFramework\UI\OpenUIFormDependencyAssetEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkManager.ReceiveState.cs" />
-     <Compile Include="Assets\GameFramework\Sound\ISoundAgent.cs" />
-     <Compile Include="Assets\GameFramework\Resource\UnloadSceneSuccessCallback.cs" />
-     <Compile Include="Assets\GameFramework\UI\IUIGroup.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Json.IJsonHelper.cs" />
-     <Compile Include="Assets\GameFramework\Network\IPacketHandler.cs" />
-     <Compile Include="Assets\GameFramework\DataTable\IDataRow.cs" />
-     <Compile Include="Assets\GameFramework\Network\INetworkManager.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkCustomErrorEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Network\Packet.cs" />
-     <Compile Include="Assets\GameFramework\Base\DataProvider\ReadDataUpdateEventArgs.cs" />
      <Compile Include="Assets\GameFramework\WebRequest\WebRequestAgentHelperCompleteEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceUpdateStartEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperUpdateEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceApplyStartEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\FileSystem.BlockData.cs" />
      <Compile Include="Assets\GameFramework\Setting\ISettingManager.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourcePackVersionListSerializer.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\FileSystem.BlockData.cs" />
+     <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\ByFile.cs" />
      <Compile Include="Assets\GameFramework\Resource\PackageVersionList.Asset.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceUpdater.ApplyInfo.cs" />
-     <Compile Include="Assets\GameFramework\Entity\ShowEntityFailureEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Resource\ReadOnlyVersionListSerializer.cs" />
-     <Compile Include="Assets\GameFramework\Base\DataProvider\DataProvider.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadSceneSuccessCallback.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\CommonFileSystemStream.cs" />
-     <Compile Include="Assets\GameFramework\WebRequest\IWebRequestManager.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceChecker.cs" />
-     <Compile Include="Assets\GameFramework\Base\GameFrameworkFunc.cs" />
-     <Compile Include="Assets\GameFramework\DataNode\IDataNodeManager.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ReadWriteVersionListSerializer.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadFailureEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Scene\LoadSceneUpdateEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadAgentHelperErrorEventArgs.cs" />
      <Compile Include="Assets\GameFramework\WebRequest\WebRequestManager.WebRequestTaskStatus.cs" />
-     <Compile Include="Assets\GameFramework\Sound\PlaySoundParams.cs" />
-     <Compile Include="Assets\GameFramework\Entity\IEntityGroupHelper.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceChecker.CheckInfo.RemoteVersionInfo.cs" />
-     <Compile Include="Assets\GameFramework\Network\AddressFamily.cs" />
-     <Compile Include="Assets\GameFramework\Config\IConfigManager.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadAgentHelperErrorEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Network\NetworkManager.TcpNetworkChannel.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LocalVersionList.Resource.cs" />
-     <Compile Include="Assets\GameFramework\WebRequest\WebRequestManager.WebRequestAgent.cs" />
      <Compile Include="Assets\GameFramework\Network\ServiceType.cs" />
-     <Compile Include="Assets\GameFramework\Base\Log\GameFrameworkLogLevel.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkManager.NetworkChannelBase.cs" />
      <Compile Include="Assets\GameFramework\Procedure\ProcedureBase.cs" />
-     <Compile Include="Assets\GameFramework\Config\ConfigManager.cs" />
-     <Compile Include="Assets\GameFramework\Debugger\IDebuggerWindow.cs" />
-     <Compile Include="Assets\GameFramework\Base\EventPool\EventPool.Event.cs" />
-     <Compile Include="Assets\GameFramework\Entity\EntityManager.EntityStatus.cs" />
-     <Compile Include="Assets\GameFramework\Resource\PackageVersionListSerializer.cs" />
+     <Compile Include="Assets\Scripts\Utility\ObjectCache.cs" />
      <Compile Include="Assets\GameFramework\Base\ReferencePool\ReferencePool.ReferenceCollection.cs" />
-     <Compile Include="Assets\GameFramework\Base\DataProvider\IDataProvider.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\FileSystemStream.cs" />
-     <Compile Include="Assets\GameFramework\Base\DataProvider\IDataProviderHelper.cs" />
-     <Compile Include="Assets\GameFramework\Entity\EntityManager.EntityInstanceObject.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.cs" />
      <Compile Include="Assets\GameFramework\Resource\LoadBytesCallbacks.cs" />
-     <Compile Include="Assets\GameFramework\Sound\SoundManager.SoundGroup.cs" />
-     <Compile Include="Assets\GameFramework\Base\GameFrameworkEntry.cs" />
-     <Compile Include="Assets\GameFramework\Base\EventPool\BaseEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadResourceStatus.cs" />
-     <Compile Include="Assets\GameFramework\Sound\SoundManager.SoundAgent.cs" />
-     <Compile Include="Assets\GameFramework\Resource\VerifyResourcesCompleteCallback.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.cs" />
      <Compile Include="Assets\GameFramework\Entity\ShowEntityUpdateEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Base\TaskPool\TaskInfo.cs" />
-     <Compile Include="Assets\GameFramework\Localization\ILocalizationManager.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadTask.cs" />
-     <Compile Include="Assets\GameFramework\Resource\InitResourcesCompleteCallback.cs" />
-     <Compile Include="Assets\GameFramework\Debugger\IDebuggerManager.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.LoadType.cs" />
+     <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\Loader\CustomLoader.cs" />
      <Compile Include="Assets\GameFramework\Debugger\DebuggerManager.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperReadFileCompleteEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Sound\SoundManager.PlaySoundInfo.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Verifier.Crc32.cs" />
-     <Compile Include="Assets\GameFramework\UI\IUIGroupHelper.cs" />
-     <Compile Include="Assets\GameFramework\Base\GameFrameworkException.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceChecker.CheckInfo.LocalVersionInfo.cs" />
-     <Compile Include="Assets\GameFramework\Resource\PackageVersionList.ResourceGroup.cs" />
      <Compile Include="Assets\GameFramework\Download\Constant.cs" />
-     <Compile Include="Assets\GameFramework\Entity\IEntityManager.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkManager.TcpWithSyncReceiveNetworkChannel.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceMode.cs" />
-     <Compile Include="Assets\GameFramework\Base\DataStruct\TypeNamePair.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceUpdater.UpdateInfo.cs" />
-     <Compile Include="Assets\GameFramework\UI\UIManager.UIFormInstanceObject.cs" />
-     <Compile Include="Assets\GameFramework\Resource\PackageVersionList.cs" />
-     <Compile Include="Assets\GameFramework\Sound\ResetSoundAgentEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Scene\UnloadSceneFailureEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Resource\LoadAssetFailureCallback.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Assembly.cs" />
+     <Compile Include="Assets\XLua\Src\Utils.cs" />
      <Compile Include="Assets\GameFramework\WebRequest\WebRequestFailureEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadAgentHelperCompleteEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Base\TaskPool\TaskBase.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadBinaryCallbacks.cs" />
-     <Compile Include="Assets\GameFramework\Resource\HasAssetResult.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadAssetCallbacks.cs" />
      <Compile Include="Assets\GameFramework\Sound\PlaySoundErrorCode.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadBytesFailureCallback.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadResourceAgent.cs" />
      <Compile Include="Assets\GameFramework\UI\UIManager.cs" />
-     <Compile Include="Assets\GameFramework\Base\ReferencePool\ReferencePool.cs" />
-     <Compile Include="Assets\GameFramework\UI\UIManager.UIGroup.UIFormInfo.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadBinaryFailureCallback.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkErrorCode.cs" />
-     <Compile Include="Assets\GameFramework\Resource\DecryptResourceCallback.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\FileSystem.StringData.cs" />
-     <Compile Include="Assets\GameFramework\Entity\EntityManager.EntityInfo.cs" />
      <Compile Include="Assets\GameFramework\Resource\IResourceGroupCollection.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceVerifier.cs" />
-     <Compile Include="Assets\GameFramework\Config\IConfigHelper.cs" />
-     <Compile Include="Assets\GameFramework\Resource\IResourceGroup.cs" />
-     <Compile Include="Assets\GameFramework\Base\TaskPool\TaskPool.cs" />
      <Compile Include="Assets\GameFramework\Fsm\FsmBase.cs" />
      <Compile Include="Assets\GameFramework\Entity\ShowEntitySuccessEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperLoadCompleteEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Fsm\IFsmManager.cs" />
-     <Compile Include="Assets\GameFramework\Base\TaskPool\TaskStatus.cs" />
-     <Compile Include="Assets\GameFramework\Debugger\IDebuggerWindowGroup.cs" />
-     <Compile Include="Assets\GameFramework\Fsm\Fsm.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkErrorEventArgs.cs" />
+     <Compile Include="Assets\XLua\Examples\09_GenericMethod\Foo.cs" />
+     <Compile Include="Assets\XLua\Src\RawObject.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceChecker.CheckInfo.cs" />
-     <Compile Include="Assets\GameFramework\Resource\UpdateVersionListSuccessCallback.cs" />
      <Compile Include="Assets\GameFramework\WebRequest\Constant.cs" />
      <Compile Include="Assets\GameFramework\WebRequest\WebRequestManager.WebRequestTask.cs" />
-     <Compile Include="Assets\GameFramework\Base\Version\Version.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceVerifyStartEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperParseBytesCompleteEventArgs.cs" />
      <Compile Include="Assets\GameFramework\ObjectPool\ObjectBase.cs" />
      <Compile Include="Assets\GameFramework\Scene\LoadSceneSuccessEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Localization\Language.cs" />
-     <Compile Include="Assets\GameFramework\Base\Variable\GenericVariable.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadCounter.cs" />
      <Compile Include="Assets\GameFramework\Sound\Constant.cs" />
+     <Compile Include="Assets\XLua\Examples\11_RawObject\RawObjectTest.cs" />
+     <Compile Include="Assets\GameFramework\Base\GameFrameworkMultiDictionary.cs" />
+     <Compile Include="Assets\XLua\Src\TemplateEngine\TemplateEngine.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\IFileSystemManager.cs" />
+     <Compile Include="Assets\GameFramework\Properties\AssemblyInfo.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadSceneCallbacks.cs" />
+     <Compile Include="Assets\GameFramework\Resource\CheckResourcesCompleteCallback.cs" />
+     <Compile Include="Assets\GameFramework\Base\ReferencePool\ReferencePoolInfo.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadSuccessEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\WebRequest\WebRequestManager.cs" />
+     <Compile Include="Assets\Scripts\Utility\DontDestroyOnLoad.cs" />
+     <Compile Include="Assets\GameFramework\Resource\Constant.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\IFileSystemHelper.cs" />
+     <Compile Include="Assets\GameFramework\Setting\SettingManager.cs" />
+     <Compile Include="Assets\Scripts\Utility\ObjectPool.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadStartEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Base\Version\Version.IVersionHelper.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ApplyResourcesCompleteCallback.cs" />
+     <Compile Include="Assets\GameFramework\ObjectPool\ReleaseObjectFilterCallback.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadSceneFailureCallback.cs" />
+     <Compile Include="Assets\XLua\Examples\06_Coroutine\CoroutineTest.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadAssetUpdateCallback.cs" />
+     <Compile Include="Assets\GameFramework\Fsm\IFsm.cs" />
+     <Compile Include="Assets\XLua\Examples\12_ReImplementInLua\ReImplementInLua.cs" />
+     <Compile Include="Assets\GameFramework\WebRequest\WebRequestAgentHelperErrorEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\WebRequest\WebRequestStartEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Download\IDownloadManager.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Verifier.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\IFileSystem.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourcePackVersionList.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadAssetSuccessCallback.cs" />
+     <Compile Include="Assets\XLua\Examples\06_Coroutine\Coroutine_Runner.cs" />
+     <Compile Include="Assets\GameFramework\UI\OpenUIFormFailureEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Localization\LocalizationManager.cs" />
+     <Compile Include="Assets\GameFramework\Sound\PlaySoundSuccessEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Base\TaskPool\ITaskAgent.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadBinarySuccessCallback.cs" />
+     <Compile Include="Assets\XLua\Src\MethodWarpsCache.cs" />
+     <Compile Include="Assets\GameFramework\Scene\LoadSceneFailureEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Sound\ISoundGroupHelper.cs" />
+     <Compile Include="Assets\GameFramework\Resource\IResourceManager.cs" />
+     <Compile Include="Assets\GameFramework\DataNode\IDataNode.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadAgentHelperUpdateLengthEventArgs.cs" />
+     <Compile Include="Assets\Scripts\C#\Delegate\DelegateTest.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadAssetDependencyAssetCallback.cs" />
+     <Compile Include="Assets\GameFramework\DataTable\DataTableBase.cs" />
+     <Compile Include="Assets\XLua\Examples\08_Hotfix\StatefullTest.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Text.ITextHelper.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LocalVersionList.FileSystem.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\FileSystem.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceGroup.cs" />
+     <Compile Include="Assets\Scripts\AppConsts.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkConnectedEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadAgentHelperUpdateBytesEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperErrorEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceUpdateChangedEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Base\ReferencePool\IReference.cs" />
+     <Compile Include="Assets\XLua\Examples\08_Hotfix\HotfixTest2.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadResourceTaskBase.cs" />
+     <Compile Include="Assets\GameFramework\Resource\PackageVersionList.Resource.cs" />
+     <Compile Include="Assets\Scripts\Utility\AssetBundleReference.cs" />
+     <Compile Include="Assets\GameFramework\UI\IUIGroup.cs" />
+     <Compile Include="Assets\XLua\Src\ObjectPool.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperUpdateEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceUpdater.ApplyInfo.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\CommonFileSystemStream.cs" />
+     <Compile Include="Assets\GameFramework\WebRequest\IWebRequestManager.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceChecker.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadSceneSuccessCallback.cs" />
+     <Compile Include="Assets\GameFramework\Base\Log\GameFrameworkLogLevel.cs" />
+     <Compile Include="Assets\XluaExample\LuaCallCSharp\LuaCallCS.cs" />
+     <Compile Include="Assets\GameFramework\Config\ConfigManager.cs" />
+     <Compile Include="Assets\Scripts\Utility\Utility.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadResourceStatus.cs" />
+     <Compile Include="Assets\GameFramework\Base\EventPool\BaseEventArgs.cs" />
+     <Compile Include="Assets\Scripts\Core\LuaBehaviour.cs" />
+     <Compile Include="Assets\GameFramework\Localization\ILocalizationManager.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadTask.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperReadFileCompleteEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Verifier.Crc32.cs" />
+     <Compile Include="Assets\GameFramework\UI\IUIGroupHelper.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceUpdater.UpdateInfo.cs" />
+     <Compile Include="Assets\GameFramework\Scene\UnloadSceneFailureEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Base\TaskPool\TaskBase.cs" />
+     <Compile Include="Assets\GameFramework\Resource\HasAssetResult.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadResourceAgent.cs" />
+     <Compile Include="Assets\GameFramework\Base\ReferencePool\ReferencePool.cs" />
+     <Compile Include="Assets\GameFramework\UI\UIManager.UIGroup.UIFormInfo.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadBinaryFailureCallback.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceVerifier.cs" />
+     <Compile Include="Assets\GameFramework\Config\IConfigHelper.cs" />
+     <Compile Include="Assets\GameFramework\Resource\IResourceGroup.cs" />
+     <Compile Include="Assets\XLua\Examples\02_U3DScripting\LuaBehaviour.cs" />
+     <Compile Include="Assets\XLua\Src\LuaBase.cs" />
+     <Compile Include="Assets\XLua\Examples\10_SignatureLoader\SignatureLoaderTest.cs" />
      <Compile Include="Assets\GameFramework\ObjectPool\ObjectPoolManager.ObjectPool.cs" />
      <Compile Include="Assets\GameFramework\Sound\ISoundAgentHelper.cs" />
      <Compile Include="Assets\GameFramework\Resource\PackageVersionList.FileSystem.cs" />
      <Compile Include="Assets\GameFramework\Resource\UpdatableVersionList.FileSystem.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Path.cs" />
-     <Compile Include="Assets\GameFramework\Base\TaskPool\StartTaskStatus.cs" />
-     <Compile Include="Assets\GameFramework\Base\GameFrameworkMultiDictionary.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadDependencyAssetTask.cs" />
-     <Compile Include="Assets\GameFramework\Sound\SoundManager.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceApplyFailureEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\IFileSystemManager.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadManager.cs" />
-     <Compile Include="Assets\GameFramework\Base\Variable\Variable.cs" />
-     <Compile Include="Assets\GameFramework\Base\DataProvider\ReadDataFailureEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Download\IDownloadAgentHelper.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadSceneCallbacks.cs" />
-     <Compile Include="Assets\GameFramework\Properties\AssemblyInfo.cs" />
-     <Compile Include="Assets\GameFramework\Config\ConfigManager.ConfigData.cs" />
      <Compile Include="Assets\GameFramework\Network\INetworkChannelHelper.cs" />
      <Compile Include="Assets\GameFramework\Resource\LoadBytesSuccessCallback.cs" />
-     <Compile Include="Assets\GameFramework\Resource\CheckResourcesCompleteCallback.cs" />
-     <Compile Include="Assets\GameFramework\Resource\UpdatableVersionListSerializer.cs" />
-     <Compile Include="Assets\GameFramework\Scene\UnloadSceneSuccessEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadSceneDependencyAssetCallback.cs" />
-     <Compile Include="Assets\GameFramework\Resource\IResourceHelper.cs" />
-     <Compile Include="Assets\GameFramework\Base\ReferencePool\ReferencePoolInfo.cs" />
+     <Compile Include="Assets\Scripts\LuaEnv\LuaLoader.cs" />
      <Compile Include="Assets\GameFramework\Base\GameFrameworkAction.cs" />
-     <Compile Include="Assets\GameFramework\Network\INetworkChannel.cs" />
-     <Compile Include="Assets\GameFramework\DataNode\DataNodeManager.DataNode.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadSuccessEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Base\GameFrameworkLinkedListRange.cs" />
-     <Compile Include="Assets\GameFramework\WebRequest\WebRequestManager.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.ReadWriteResourceInfo.cs" />
      <Compile Include="Assets\GameFramework\Sound\ISoundHelper.cs" />
      <Compile Include="Assets\GameFramework\UI\OpenUIFormSuccessEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\DataTable\DataTableManager.DataTable.cs" />
-     <Compile Include="Assets\GameFramework\Resource\Constant.cs" />
      <Compile Include="Assets\GameFramework\Entity\IEntityGroup.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperReadBytesCompleteEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Debugger\DebuggerManager.DebuggerWindowGroup.cs" />
-     <Compile Include="Assets\GameFramework\Entity\EntityManager.cs" />
-     <Compile Include="Assets\GameFramework\Base\DataProvider\ReadDataDependencyAssetEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\IFileSystemHelper.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceNameComparer.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceUpdater.cs" />
-     <Compile Include="Assets\GameFramework\Sound\ISoundGroup.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceChecker.CheckInfo.CheckStatus.cs" />
-     <Compile Include="Assets\GameFramework\Setting\SettingManager.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Compression.cs" />
      <Compile Include="Assets\GameFramework\DataTable\IDataTableHelper.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourcePackVersionList.Resource.cs" />
+     <Compile Include="Assets\GameFramework\Base\DataProvider\ReadDataSuccessEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\UpdateVersionListCallbacks.cs" />
+     <Compile Include="Assets\XLua\Tutorial\LuaCallCSharp\LuaCallCs.cs" />
+     <Compile Include="Assets\GameFramework\DataTable\IDataTable.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\FileSystemAccess.cs" />
+     <Compile Include="Assets\GameFramework\UI\OpenUIFormUpdateEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\UpdateVersionListFailureCallback.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.AssetObject.cs" />
+     <Compile Include="Assets\GameFramework\Base\EventPool\EventPool.cs" />
+     <Compile Include="Assets\GameFramework\UI\UIManager.OpenUIFormInfo.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadSceneUpdateCallback.cs" />
+     <Compile Include="Assets\GameFramework\WebRequest\IWebRequestAgentHelper.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkManager.SendState.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Compression.ICompressionHelper.cs" />
+     <Compile Include="Assets\XLua\Examples\04_LuaObjectOrented\InvokeLua.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
+     <Compile Include="Assets\XLua\Examples\07_AsyncTest\MessageBox.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Marshal.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.AssetInfo.cs" />
+     <Compile Include="Assets\GameFramework\Resource\UnloadSceneCallbacks.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkClosedEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\UpdateResourcesCompleteCallback.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkManager.cs" />
+     <Compile Include="Assets\GameFramework\Localization\ILocalizationHelper.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadAgent.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadTaskStatus.cs" />
+     <Compile Include="Assets\XLua\Src\GenAttributes.cs" />
+     <Compile Include="Assets\GameFramework\UI\IUIFormHelper.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Random.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkManager.ConnectState.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceVerifySuccessEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Setting\ISettingHelper.cs" />
+     <Compile Include="Assets\GameFramework\ObjectPool\ObjectPoolBase.cs" />
+     <Compile Include="Assets\GameFramework\Base\Log\GameFrameworkLog.ILogHelper.cs" />
+     <Compile Include="Assets\GameFramework\UI\IUIManager.cs" />
+     <Compile Include="Assets\GameFramework\ObjectPool\IObjectPool.cs" />
+     <Compile Include="Assets\XLua\Src\LuaFunction.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadAssetTask.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadResourceProgress.cs" />
+     <Compile Include="Assets\GameFramework\Base\DataProvider\DataProviderCreator.cs" />
+     <Compile Include="Assets\GameFramework\UI\OpenUIFormDependencyAssetEventArgs.cs" />
+     <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\ByString\ByString.cs" />
+     <Compile Include="Assets\GameFramework\Sound\ISoundAgent.cs" />
+     <Compile Include="Assets\GameFramework\DataTable\IDataRow.cs" />
+     <Compile Include="Assets\XLua\Examples\05_NoGc\NoGc.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkCustomErrorEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceUpdateStartEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourcePackVersionListSerializer.cs" />
+     <Compile Include="Assets\XLua\Src\ObjectCasters.cs" />
+     <Compile Include="Assets\GameFramework\Base\GameFrameworkFunc.cs" />
+     <Compile Include="Assets\GameFramework\DataNode\IDataNodeManager.cs" />
+     <Compile Include="Assets\GameFramework\Network\AddressFamily.cs" />
+     <Compile Include="Assets\GameFramework\Config\IConfigManager.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.cs" />
+     <Compile Include="Assets\GameFramework\WebRequest\WebRequestManager.WebRequestAgent.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkManager.NetworkChannelBase.cs" />
+     <Compile Include="Assets\GameFramework\Entity\EntityManager.EntityStatus.cs" />
+     <Compile Include="Assets\GameFramework\Base\EventPool\EventPool.Event.cs" />
+     <Compile Include="Assets\GameFramework\Resource\PackageVersionListSerializer.cs" />
+     <Compile Include="Assets\GameFramework\Base\DataProvider\IDataProvider.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\FileSystemStream.cs" />
+     <Compile Include="Assets\GameFramework\Base\GameFrameworkEntry.cs" />
+     <Compile Include="Assets\GameFramework\Resource\VerifyResourcesCompleteCallback.cs" />
+     <Compile Include="Assets\GameFramework\Base\TaskPool\TaskInfo.cs" />
+     <Compile Include="Assets\XLua\Src\SignatureLoader.cs" />
+     <Compile Include="Assets\GameFramework\Debugger\IDebuggerManager.cs" />
+     <Compile Include="Assets\GameFramework\Sound\SoundManager.PlaySoundInfo.cs" />
+     <Compile Include="Assets\GameFramework\Entity\IEntityManager.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkManager.TcpWithSyncReceiveNetworkChannel.cs" />
+     <Compile Include="Assets\GameFramework\Base\DataStruct\TypeNamePair.cs" />
+     <Compile Include="Assets\GameFramework\Resource\PackageVersionList.cs" />
+     <Compile Include="Assets\GameFramework\Sound\ResetSoundAgentEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadBinaryCallbacks.cs" />
+     <Compile Include="Assets\XLua\Src\TypeExtensions.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadBytesFailureCallback.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkErrorCode.cs" />
+     <Compile Include="Assets\GameFramework\Fsm\IFsmManager.cs" />
+     <Compile Include="Assets\GameFramework\Debugger\IDebuggerWindowGroup.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkErrorEventArgs.cs" />
+     <Compile Include="Assets\Scripts\Managers\UpdateManager.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperParseBytesCompleteEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceVerifyStartEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Localization\Language.cs" />
+     <Compile Include="Assets\GameFramework\Base\Variable\GenericVariable.cs" />
+     <Compile Include="Assets\XLua\Src\ObjectTranslator.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Path.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadDependencyAssetTask.cs" />
+     <Compile Include="Assets\GameFramework\Download\IDownloadAgentHelper.cs" />
+     <Compile Include="Assets\GameFramework\Base\Variable\Variable.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadSceneDependencyAssetCallback.cs" />
+     <Compile Include="Assets\GameFramework\Resource\IResourceHelper.cs" />
+     <Compile Include="Assets\GameFramework\Base\GameFrameworkLinkedListRange.cs" />
+     <Compile Include="Assets\GameFramework\Network\INetworkChannel.cs" />
+     <Compile Include="Assets\GameFramework\DataTable\DataTableManager.DataTable.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceUpdater.cs" />
+     <Compile Include="Assets\GameFramework\Base\DataProvider\ReadDataDependencyAssetEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceNameComparer.cs" />
+     <Compile Include="Assets\GameFramework\Entity\EntityManager.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceChecker.CheckInfo.CheckStatus.cs" />
+     <Compile Include="Assets\GameFramework\Entity\IEntity.cs" />
+     <Compile Include="Assets\GameFramework\Base\GameFrameworkModule.cs" />
+     <Compile Include="Assets\GameFramework\Fsm\FsmState.cs" />
+     <Compile Include="Assets\GameFramework\Base\Log\GameFrameworkLog.cs" />
+     <Compile Include="Assets\GameFramework\Event\GameEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Event\EventManager.cs" />
+     <Compile Include="Assets\XLua\Src\LuaEnv.cs" />
+     <Compile Include="Assets\GameFramework\Network\IPacketHeader.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceIniter.cs" />
+     <Compile Include="Assets\GameFramework\Entity\ShowEntityDependencyAssetEventArgs.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\FileSystemManager.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceGroupCollection.cs" />
+     <Compile Include="Assets\GameFramework\Entity\HideEntityCompleteEventArgs.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
+     <Compile Include="Assets\GameFramework\Event\IEventManager.cs" />
+     <Compile Include="Assets\GameFramework\ObjectPool\ObjectInfo.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Encryption.cs" />
+     <Compile Include="Assets\XLua\Tutorial\CSharpCallLua\CSCallLua.cs" />
+     <Compile Include="Assets\GameFramework\Base\EventPool\EventPoolMode.cs" />
+     <Compile Include="Assets\XLua\Src\CodeEmit.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadCounter.DownloadCounterNode.cs" />
+     <Compile Include="Assets\GameFramework\Sound\PlaySoundDependencyAssetEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\ObjectPool\IObjectPoolManager.cs" />
+     <Compile Include="Assets\XLua\Examples\ExampleGenConfig.cs" />
+     <Compile Include="Assets\GameFramework\UI\CloseUIFormCompleteEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\DataTable\IDataTableManager.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
+     <Compile Include="Assets\GameFramework\Scene\LoadSceneDependencyAssetEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Text.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Json.cs" />
+     <Compile Include="Assets\GameFramework\ObjectPool\ObjectPoolManager.cs" />
+     <Compile Include="Assets\GameFramework\Scene\SceneManager.cs" />
+     <Compile Include="Assets\GameFramework\Base\GameFrameworkEventArgs.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
+     <Compile Include="Assets\GameFramework\Resource\CheckVersionListResult.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkManager.HeartBeatState.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceUpdateAllCompleteEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\FileInfo.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkManager.ReceiveState.cs" />
+     <Compile Include="Assets\GameFramework\Resource\UnloadSceneSuccessCallback.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Json.IJsonHelper.cs" />
+     <Compile Include="Assets\GameFramework\Network\IPacketHandler.cs" />
+     <Compile Include="Assets\XLua\Examples\07_AsyncTest\AsyncTest.cs" />
+     <Compile Include="Assets\GameFramework\Network\INetworkManager.cs" />
+     <Compile Include="Assets\GameFramework\Network\Packet.cs" />
+     <Compile Include="Assets\GameFramework\Base\DataProvider\ReadDataUpdateEventArgs.cs" />
+     <Compile Include="Assets\XLua\Src\LuaException.cs" />
+     <Compile Include="Assets\GameFramework\Entity\ShowEntityFailureEventArgs.cs" />
+     <Compile Include="Assets\XLua\Src\DelegateBridge.cs" />
+     <Compile Include="Assets\GameFramework\Base\DataProvider\DataProvider.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ReadWriteVersionListSerializer.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadFailureEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Sound\PlaySoundParams.cs" />
+     <Compile Include="Assets\GameFramework\Entity\IEntityGroupHelper.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LocalVersionList.Resource.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceChecker.CheckInfo.RemoteVersionInfo.cs" />
+     <Compile Include="Assets\XLua\Examples\09_GenericMethod\GenericMethodExample.cs" />
+     <Compile Include="Assets\GameFramework\Debugger\IDebuggerWindow.cs" />
+     <Compile Include="Assets\GameFramework\Entity\EntityManager.EntityInstanceObject.cs" />
+     <Compile Include="Assets\GameFramework\Base\DataProvider\IDataProviderHelper.cs" />
+     <Compile Include="Assets\GameFramework\Sound\SoundManager.SoundGroup.cs" />
+     <Compile Include="Assets\GameFramework\Sound\SoundManager.SoundAgent.cs" />
+     <Compile Include="Assets\Scripts\Core\AssetManifest.cs" />
+     <Compile Include="Assets\XLua\Src\GenericDelegateBridge.cs" />
+     <Compile Include="Assets\GameFramework\Resource\InitResourcesCompleteCallback.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.LoadType.cs" />
+     <Compile Include="Assets\GameFramework\Base\GameFrameworkException.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceChecker.CheckInfo.LocalVersionInfo.cs" />
+     <Compile Include="Assets\GameFramework\Resource\PackageVersionList.ResourceGroup.cs" />
+     <Compile Include="Assets\XluaExample\CSharpCallLua\CSCallLua.cs" />
+     <Compile Include="Assets\GameFramework\Resource\ResourceMode.cs" />
+     <Compile Include="Assets\GameFramework\UI\UIManager.UIFormInstanceObject.cs" />
+     <Compile Include="Assets\GameFramework\Utility\Utility.Assembly.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadAgentHelperCompleteEventArgs.cs" />
+     <Compile Include="Assets\XLua\Src\CopyByValue.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadAssetCallbacks.cs" />
+     <Compile Include="Assets\XLua\Src\StaticLuaCallbacks.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
+     <Compile Include="Assets\GameFramework\Resource\DecryptResourceCallback.cs" />
+     <Compile Include="Assets\GameFramework\FileSystem\FileSystem.StringData.cs" />
+     <Compile Include="Assets\Scripts\Core\Singleton.cs" />
+     <Compile Include="Assets\GameFramework\Entity\EntityManager.EntityInfo.cs" />
+     <Compile Include="Assets\GameFramework\Base\TaskPool\TaskPool.cs" />
+     <Compile Include="Assets\GameFramework\Base\TaskPool\TaskStatus.cs" />
+     <Compile Include="Assets\GameFramework\Fsm\Fsm.cs" />
+     <Compile Include="Assets\GameFramework\Resource\UpdateVersionListSuccessCallback.cs" />
+     <Compile Include="Assets\GameFramework\Base\Version\Version.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadManager.DownloadCounter.cs" />
+     <Compile Include="Assets\Scripts\Core\AssetsManager.cs" />
+     <Compile Include="Assets\GameFramework\Base\TaskPool\StartTaskStatus.cs" />
+     <Compile Include="Assets\GameFramework\Sound\SoundManager.cs" />
+     <Compile Include="Assets\GameFramework\Download\DownloadManager.cs" />
+     <Compile Include="Assets\GameFramework\Base\DataProvider\ReadDataFailureEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Config\ConfigManager.ConfigData.cs" />
+     <Compile Include="Assets\XLua\Src\InternalGlobals.cs" />
+     <Compile Include="Assets\GameFramework\Resource\UpdatableVersionListSerializer.cs" />
+     <Compile Include="Assets\Scripts\Utility\Disposable.cs" />
+     <Compile Include="Assets\GameFramework\Scene\UnloadSceneSuccessEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\DataNode\DataNodeManager.DataNode.cs" />
+     <Compile Include="Assets\GameFramework\Debugger\DebuggerManager.DebuggerWindowGroup.cs" />
+     <Compile Include="Assets\GameFramework\Sound\ISoundGroup.cs" />
      <Compile Include="Assets\GameFramework\Scene\ISceneManager.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceInfo.cs" />
-     <Compile Include="Assets\GameFramework\Entity\IEntity.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourcePackVersionList.Resource.cs" />
-     <Compile Include="Assets\GameFramework\Base\GameFrameworkModule.cs" />
-     <Compile Include="Assets\GameFramework\Download\DownloadStartEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Compression.cs" />
-     <Compile Include="Assets\GameFramework\Base\Version\Version.IVersionHelper.cs" />
-     <Compile Include="Assets\GameFramework\Base\DataProvider\ReadDataSuccessEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Resource\LoadResourceAgentHelperReadBytesCompleteEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Entity\EntityManager.EntityGroup.cs" />
-     <Compile Include="Assets\GameFramework\Fsm\FsmState.cs" />
      <Compile Include="Assets\GameFramework\Base\GameFrameworkLinkedList.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ApplyResourcesCompleteCallback.cs" />
-     <Compile Include="Assets\GameFramework\ObjectPool\ReleaseObjectFilterCallback.cs" />
-     <Compile Include="Assets\GameFramework\Base\Log\GameFrameworkLog.cs" />
-     <Compile Include="Assets\GameFramework\Resource\UpdateVersionListCallbacks.cs" />
-     <Compile Include="Assets\GameFramework\Event\GameEventArgs.cs" />
      <Compile Include="Assets\GameFramework\UI\UIManager.UIGroup.cs" />
-     <Compile Include="Assets\GameFramework\Event\EventManager.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadSceneFailureCallback.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.ResourceObject.cs" />
-     <Compile Include="Assets\GameFramework\Network\IPacketHeader.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceUpdateFailureEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.LoadSceneTask.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceApplySuccessEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\DataTable\IDataTable.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceIniter.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\FileSystemAccess.cs" />
-     <Compile Include="Assets\GameFramework\Fsm\IFsm.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadAssetUpdateCallback.cs" />
-     <Compile Include="Assets\GameFramework\Entity\ShowEntityDependencyAssetEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\WebRequest\WebRequestAgentHelperErrorEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\WebRequest\WebRequestStartEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\FileSystemManager.cs" />
      <Compile Include="Assets\GameFramework\Sound\ISoundManager.cs" />
      <Compile Include="Assets\GameFramework\Procedure\IProcedureManager.cs" />
-     <Compile Include="Assets\GameFramework\Download\IDownloadManager.cs" />
-     <Compile Include="Assets\GameFramework\Network\NetworkMissHeartBeatEventArgs.cs" />
      <Compile Include="Assets\GameFramework\ObjectPool\ObjectPoolManager.Object.cs" />
-     <Compile Include="Assets\GameFramework\Base\GameFrameworkSerializer.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceGroupCollection.cs" />
-     <Compile Include="Assets\GameFramework\Entity\HideEntityCompleteEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Resource\UpdatableVersionList.cs" />
-     <Compile Include="Assets\GameFramework\UI\OpenUIFormUpdateEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Event\IEventManager.cs" />
-     <Compile Include="Assets\GameFramework\Resource\UpdateVersionListFailureCallback.cs" />
+     <Compile Include="Assets\GameFramework\Network\NetworkMissHeartBeatEventArgs.cs" />
+     <Compile Include="Assets\GameFramework\Base\GameFrameworkSerializer.cs" />
      <Compile Include="Assets\GameFramework\Resource\UpdatableVersionList.ResourceGroup.cs" />
-     <Compile Include="Assets\GameFramework\FileSystem\IFileSystem.cs" />
-     <Compile Include="Assets\GameFramework\Utility\Utility.Verifier.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceUpdateSuccessEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourcePackVersionList.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadAssetSuccessCallback.cs" />
-     <Compile Include="Assets\GameFramework\UI\OpenUIFormFailureEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Entity\EntityManager.ShowEntityInfo.cs" />
-     <Compile Include="Assets\GameFramework\Localization\LocalizationManager.cs" />
-     <Compile Include="Assets\GameFramework\Base\EventPool\EventPool.cs" />
-     <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceLoader.AssetObject.cs" />
-     <Compile Include="Assets\GameFramework\UI\UIManager.OpenUIFormInfo.cs" />
-     <Compile Include="Assets\GameFramework\Sound\PlaySoundSuccessEventArgs.cs" />
-     <Compile Include="Assets\GameFramework\ObjectPool\ObjectInfo.cs" />
-     <Compile Include="Assets\GameFramework\Base\TaskPool\ITaskAgent.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadBinarySuccessCallback.cs" />
-     <Compile Include="Assets\GameFramework\Resource\LoadSceneUpdateCallback.cs" />
      <Compile Include="Assets\GameFramework\UI\IUIForm.cs" />
-     <Compile Include="Assets\GameFramework\WebRequest\IWebRequestAgentHelper.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceName.cs" />
-     <Compile Include="Assets\Scripts\C#\DelegateTest.cs" />
+     <Compile Include="Assets\GameFramework\DataTable\DataTableManager.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIAtlas.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\Tweening\SparkTween.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\fixed32.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIViewRoot.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\LZ\LzOutWindow.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\int16.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenProShortcuts.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\IComponent.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIView.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\EffectController.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UITableView.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\FPSCounter.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenTextMeshPro.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\LZMA\LzmaDecoder.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenTk2d.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\uint64.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\IResettable.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UIRecycledContainer.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIViewStack.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\GameObjectPool.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\EventTriggerListener.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\RangeCoder\RangeCoder.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIViewCloseAnimation.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\TransformExtension.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\int8.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Common\CommandLineParser.cs" />
+     <Compile Include="Assets\Spark\Scripts\XLua\ObjectTranslator.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\uint32.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\SparkHelper.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UIScroller.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Common\OutBuffer.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\Tweening\Ease.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\LZ\LzInWindow.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\JSON.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\Tweening\Tween.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\AssetsManifest.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIComponentCollection.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\number.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\IControl.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIViewOpenAnimation.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UILongClickButton.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\CameraBlur.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\Disposable.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
+     <Compile Include="Assets\Spark\Particle2D\Scripts\PexConfig.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UITableViewRecycledContainer.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UIRect.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIComponentGroup.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UIImage.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenDeUnityExtended.cs" />
+     <Compile Include="Assets\Spark\Scripts\XLua\LuaBehaviour.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\Tweening\Tweener.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\int64.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\uint8.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIViewRoot+Lua.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\HttpHelper.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\LZMA\LzmaEncoder.cs" />
+     <Compile Include="Assets\Spark\Particle2D\Scripts\Particle2D.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\BinaryHeap.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\RangeCoder\RangeCoderBitTree.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\DontDestroyOnLoadScript.cs" />
+     <Compile Include="Assets\Spark\Particle2D\Scripts\Particle2DUGUI.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Common\CRC.cs" />
+     <Compile Include="Assets\Spark\Particle2D\Scripts\Particle2DSystem.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\Scheduler.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\TimeHelper.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenDeAudio.cs" />
+     <Compile Include="Assets\Spark\Scripts\XLua\LuaTexture.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIStyle.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\fixed64.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIViewSettings.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UIToggleButton.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\SceneHelper.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\LZ\LzBinTree.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\int32.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIContext.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\ICoder.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\LZMA\LzmaBase.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\Tweening\SparkTweenAnimation.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UISound.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\Assets.cs" />
+     <Compile Include="Assets\Spark\Scripts\SparkLua.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\FileHelper.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\ObjectCache.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\ILuaGCHandler.cs" />
+     <Compile Include="Assets\Spark\Scripts\Utility\ObjectPool.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UITableViewCell.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\Component\UITyperText.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\LZ\IMatchFinder.cs" />
+     <Compile Include="Assets\Spark\Scripts\System\uint16.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Common\InBuffer.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\7zip\Compress\RangeCoder\RangeCoderBit.cs" />
+     <Compile Include="Assets\Spark\Particle2D\Scripts\Set_Flow_Light_Material.cs" />
+     <Compile Include="Assets\Spark\Particle2D\Scripts\PlistConfig.cs" />
+     <Compile Include="Assets\Spark\Scripts\UI\UIScriptableView.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\TranslationJob.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LocalizeDropdown.cs" />
+     <Compile Include="Assets\Scripts\Framework\Components\Gradient.cs" />
+     <Compile Include="Assets\Scripts\PersonalShow\AvartaData.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityUI_Text.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityStandard_SpriteRenderer.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceData_Misc.cs" />
+     <Compile Include="Assets\Scripts\PersonalShow\AvartaType.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\ILocalizeTarget.cs" />
+     <Compile Include="Assets\Scripts\Debug\ScoketClient.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceData_Export_CSV.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_2DToolKit_Label.cs" />
+     <Compile Include="Assets\Scripts\Framework\Console\Console.cs" />
+     <Compile Include="Assets\Scripts\Framework\Sdk\AvatarResponse.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceData_Languages.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceData.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\TranslationJob_Main.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\HindiFixer.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityStandard_MeshRenderer.cs" />
+     <Compile Include="Assets\Scripts\Main.cs" />
+     <Compile Include="Assets\Scripts\Framework\Components\AtlasAsset.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Manager\LocalizationManager_Targets.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\StringObfuscator.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LocalizationReader.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\TermData.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\LocalizationParamsManager.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\I2Utils.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\CoroutineManager.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\EventCallback.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSource.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceAsset.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Localize.cs" />
+     <Compile Include="Assets\Scripts\Framework\Audio\WavUtility.cs" />
+     <Compile Include="Assets\Scripts\Framework\Sdk\NativeMsgHelper.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Manager\LocalizationManager_SystemLanguage.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceData_Terms.cs" />
+     <Compile Include="Assets\Scripts\PersonalShow\PersonNarrowShow.cs" />
+     <Compile Include="Assets\Scripts\Framework\Sdk\PlatformResponse.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\TranslationJob_WEB.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\ILocalizeTargetDesc.cs" />
+     <Compile Include="Assets\Scripts\Framework\Components\Gradient2.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_NGUI_Sprite.cs" />
+     <Compile Include="Assets\Scripts\UILocaleConfig.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\SetLanguageDropdown.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Manager\LocalizationManager.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\GoogleTranslation.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Manager\LocalizationManager_Parameters.cs" />
+     <Compile Include="Assets\Scripts\Debug\FakeSocket.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\SimpleJSON.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\LocalizedString.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityUI_RectTransform.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\SetLanguage.cs" />
+     <Compile Include="Assets\Scripts\Framework\Common\Common.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityStandard_Prefab.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_NGUI_Label.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Manager\LocalizationManager_Translation.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_SVGImporter_Renderer.cs" />
+     <Compile Include="Assets\Scripts\PersonalShow\AvartaScene.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityStandard_Child.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\RegisterGlobalParameters.cs" />
+     <Compile Include="Assets\Scripts\UIGameContentView.cs" />
+     <Compile Include="Assets\Scripts\PersonalShow\AvartaUserInfo.cs" />
+     <Compile Include="Assets\Scripts\PersonalShow\AvartaPlayer.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityStandard_AudioSource.cs" />
+     <Compile Include="Assets\Scripts\UIFigerScale.cs" />
+     <Compile Include="Assets\Scripts\Debug\IngameConsole\Scripts\IngameConsole.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\CustomLocalizeCallback.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\TranslationJob_GET.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityUI_Image.cs" />
+     <Compile Include="Assets\Scripts\Framework\Sdk\IosPlatform.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_NGUI_Texture.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Manager\LocalizationManager_Language.cs" />
+     <Compile Include="Assets\Scripts\Debug\FakeMessageModel.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\RTLFixer.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityStandard_TextMesh.cs" />
+     <Compile Include="Assets\Scripts\Framework\Sdk\FixShaderMiss.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_SVGImporter_Image.cs" />
+     <Compile Include="Assets\Scripts\Debug\UIDebugLogin.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Manager\LocalizationManager_Sources.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\TranslationJob_POST.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\AutoChangeCultureInfo.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\GoogleLanguages.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityStandard_VideoPlayer.cs" />
+     <Compile Include="Assets\Scripts\Framework\Sdk\AndroidPlatform.cs" />
+     <Compile Include="Assets\Scripts\Framework\Sdk\DebugPlatform.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\RegisterCallback_AllowSyncFromGoogle.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceData_Import_CSV.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageData.cs" />
+     <Compile Include="Assets\Scripts\Supercyan\DontGoThroughtThings.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\GoogleTranslation_Queries.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceData_Export_Google.cs" />
+     <Compile Include="Assets\Scripts\Framework\Audio\AudioManager.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_UnityUI_RawImage.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Utils\ResourceManager.cs" />
+     <Compile Include="Assets\Scripts\PersonalShow\AvartaConfig.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Manager\LocalizationManager_RTL.cs" />
+     <Compile Include="Assets\Scripts\Framework\Sdk\PlatformBase.cs" />
+     <Compile Include="Assets\Scripts\UIGradient.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceData_Assets.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Google\GoogleTranslation_Post.cs" />
+     <Compile Include="Assets\Scripts\Framework\Sdk\AavtarCombine.cs" />
+     <Compile Include="Assets\Scripts\PersonalShow\AvartaSceneController.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\LanguageSource\LanguageSourceData_Import_Google.cs" />
+     <Compile Include="Assets\Scripts\Debug\DebugGUI.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Configurables\PersistentStorage.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Configurables\SpecializationManager.cs" />
+     <Compile Include="Assets\Scripts\Localization\Scripts\Targets\LocalizeTarget_2DToolKit_Sprite.cs" />
+     <Compile Include="Assets\Scripts\Render\CombineAvatars.cs" />
+     <Compile Include="Assets\XLua\BuildInInit.cs" />
+     <Compile Include="Assets\Scripts\Ext\ObjectEx.cs" />
      <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\async_test.lua.txt" />
      <None Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\Resources\byfile.lua.txt" />
+     <None Include="Assets\Spark\Resources\Shaders\UI-DefaultGray.shader" />
+     <None Include="Assets\Spark\Resources\Shaders\MobileBlur.shader" />
      <None Include="Assets\Raw\Game\Billiards\Spine\taiqiu_vs.atlas.txt" />
+     <None Include="Assets\Spark\Particle2D\Shader\Particle2DUGUIShader.shader" />
+     <None Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\readme.txt" />
      <None Include="Assets\XLua\Examples\06_Coroutine\Resources\coruntine_test.lua.txt" />
+     <None Include="Assets\Spark\Scripts\ThirdPart\Demigiant\readme_DOTweenPro.txt" />
      <None Include="Assets\XLua\Resources\xlua\util.lua.txt" />
      <None Include="Assets\Raw\Game\Billiards\Spine\taqiu_jindong.atlas.txt" />
+     <None Include="Assets\Scripts\Localization\I2 Localization - Readme.txt" />
      <None Include="Assets\XLua\Resources\perf\profiler.lua.txt" />
      <None Include="Assets\Raw\Game\Billiards\Spine\taiqiu_wenzi.atlas.txt" />
      <None Include="Assets\Raw\Game\Billiards\Spine\taiqiu_lg.atlas.txt" />
      <None Include="Assets\XLua\Resources\perf\memory.lua.txt" />
+     <None Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DemiLib\Core\DemiLib.xml" />
      <None Include="Assets\XLua\Examples\03_UIEvent\ButtonInteraction.lua.txt" />
      <None Include="Assets\XLua\Examples\02_U3DScripting\LuaTestScript.lua.txt" />
      <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\message_box.lua.txt" />
-     <None Include="Assets\ThirdPart\Demigiant\DOTween\readme.txt" />
      <None Include="Assets\XLua\Resources\tdr\tdr.lua.txt" />
-     <None Include="Assets\XLua\CHANGELOG.txt" />
+     <None Include="Assets\Spark\Particle2D\Shader\Particle2DSimple.shader" />
      <None Include="Assets\XLua\Examples\06_Coroutine\Resources\cs_coroutine.lua.txt" />
+     <None Include="Assets\Spark\Resources\Shaders\UI-DefaultGrayETC1.shader" />
      <None Include="Assets\Raw\Game\Billiards\Spine\taiqiu_logo.atlas.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
@@ -683,11 +894,23 @@
     <Reference Include="UnityEditor.UnityConnectModule">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
-    <Reference Include="DOTween">
-        <HintPath>D:\QFramework\Assets\ThirdPart\Demigiant\DOTween\DOTween.dll</HintPath>
-    </Reference>
     <Reference Include="Newtonsoft.Json">
         <HintPath>D:\QFramework\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenPro">
+        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="Logger">
+        <HintPath>D:\QFramework\Assets\Spark\Scripts\Logger.dll</HintPath>
+    </Reference>
+    <Reference Include="DemiLib">
+        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -695,350 +918,353 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
-    <Reference Include="netstandard">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.Win32.Primitives">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\Microsoft.Win32.Primitives.dll</HintPath>
-    </Reference>
-    <Reference Include="System.AppContext">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.AppContext.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Collections.Concurrent">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.Concurrent.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Collections">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Collections.NonGeneric">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.NonGeneric.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Collections.Specialized">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.Specialized.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ComponentModel">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ComponentModel.EventBasedAsync">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.EventBasedAsync.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ComponentModel.Primitives">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.Primitives.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ComponentModel.TypeConverter">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.TypeConverter.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Console">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Console.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Data.Common">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Data.Common.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Diagnostics.Contracts">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Contracts.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Diagnostics.Debug">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Debug.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Diagnostics.FileVersionInfo">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.FileVersionInfo.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Diagnostics.Process">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Process.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Diagnostics.StackTrace">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.StackTrace.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Diagnostics.TextWriterTraceListener">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.TextWriterTraceListener.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Diagnostics.Tools">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Tools.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Diagnostics.TraceSource">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.TraceSource.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Diagnostics.Tracing">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Tracing.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Drawing.Primitives">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Drawing.Primitives.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Dynamic.Runtime">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Dynamic.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Globalization.Calendars">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.Calendars.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Globalization">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Globalization.Extensions">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.Compression">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Compression.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.Compression.ZipFile">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Compression.ZipFile.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.FileSystem">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.FileSystem.DriveInfo">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.DriveInfo.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.FileSystem.Primitives">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.Primitives.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.FileSystem.Watcher">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.Watcher.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.IsolatedStorage">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.IsolatedStorage.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.MemoryMappedFiles">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.MemoryMappedFiles.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.Pipes">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Pipes.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.UnmanagedMemoryStream">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.UnmanagedMemoryStream.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Linq">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Linq.Expressions">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Expressions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Linq.Parallel">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Parallel.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Linq.Queryable">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Queryable.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.Http">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Http.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.NameResolution">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.NameResolution.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.NetworkInformation">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.NetworkInformation.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.Ping">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Ping.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.Primitives">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Primitives.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.Requests">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Requests.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.Security">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Security.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.Sockets">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Sockets.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.WebHeaderCollection">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebHeaderCollection.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.WebSockets.Client">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebSockets.Client.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.WebSockets">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebSockets.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ObjectModel">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ObjectModel.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Reflection">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Reflection.Extensions">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Reflection.Primitives">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.Primitives.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Resources.Reader">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.Reader.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Resources.ResourceManager">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.ResourceManager.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Resources.Writer">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.Writer.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.CompilerServices.VisualC">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.CompilerServices.VisualC.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.Extensions">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.Handles">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Handles.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.InteropServices">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.InteropServices.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.Numerics">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Numerics.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.Serialization.Formatters">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Formatters.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.Serialization.Json">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.Serialization.Primitives">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Primitives.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.Serialization.Xml">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Xml.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Security.Claims">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Claims.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Security.Cryptography.Algorithms">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Algorithms.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Security.Cryptography.Csp">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Csp.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Security.Cryptography.Encoding">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Encoding.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Security.Cryptography.Primitives">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Primitives.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Security.Cryptography.X509Certificates">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.X509Certificates.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Security.Principal">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Principal.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Security.SecureString">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.SecureString.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Text.Encoding">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.Encoding.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Text.Encoding.Extensions">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.Encoding.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Text.RegularExpressions">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.RegularExpressions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading.Overlapped">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Overlapped.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading.Tasks">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Tasks.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading.Tasks.Parallel">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Tasks.Parallel.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading.Thread">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Thread.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading.ThreadPool">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.ThreadPool.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading.Timer">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Timer.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ValueTuple">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ValueTuple.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Xml.ReaderWriter">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.ReaderWriter.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Xml.XDocument">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XDocument.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Xml.XmlDocument">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XmlDocument.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Xml.XmlSerializer">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XmlSerializer.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Xml.XPath">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XPath.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Xml.XPath.XDocument">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XPath.XDocument.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Numerics.Vectors">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\Extensions\2.0.0\System.Numerics.Vectors.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
-    </Reference>
     <Reference Include="mscorlib">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\mscorlib.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ComponentModel.Composition">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.ComponentModel.Composition.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Core">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Data">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Data.dll</HintPath>
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="System">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.dll</HintPath>
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.dll</HintPath>
     </Reference>
-    <Reference Include="System.Drawing">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Drawing.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.Compression.FileSystem">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.IO.Compression.FileSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Net.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Numerics">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Numerics.dll</HintPath>
+    <Reference Include="System.Core">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Core.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.Serialization">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Runtime.Serialization.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ServiceModel.Web">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.ServiceModel.Web.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Transactions">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Transactions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Web">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Web.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Windows">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Windows.dll</HintPath>
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Runtime.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.dll</HintPath>
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Xml.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml.Linq">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Linq.dll</HintPath>
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Xml.Linq.dll</HintPath>
     </Reference>
-    <Reference Include="System.Xml.Serialization">
-        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
+    <Reference Include="System.Numerics">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.IO.Compression.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Microsoft.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\Microsoft.Win32.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="netstandard">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\netstandard.dll</HintPath>
+    </Reference>
+    <Reference Include="System.AppContext">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.AppContext.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Concurrent">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Collections.Concurrent.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.NonGeneric">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Collections.NonGeneric.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Specialized">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Collections.Specialized.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.EventBasedAsync">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.EventBasedAsync.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Primitives">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.TypeConverter">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ComponentModel.TypeConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Console">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Common">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Data.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Contracts">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Debug">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.Debug.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.FileVersionInfo">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.FileVersionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Process">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.Process.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.StackTrace">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.StackTrace.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TextWriterTraceListener">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.TextWriterTraceListener.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tools">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Diagnostics.TraceSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Drawing.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Dynamic.Runtime">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Dynamic.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Globalization.Calendars.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Globalization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Extensions">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Globalization.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.ZipFile">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.Compression.ZipFile.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.DriveInfo">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.FileSystem.DriveInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Watcher">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.FileSystem.Watcher.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.IsolatedStorage">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.IsolatedStorage.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.MemoryMappedFiles">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.MemoryMappedFiles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipes">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.Pipes.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.UnmanagedMemoryStream">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.IO.UnmanagedMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Linq.Expressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Parallel">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Linq.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Queryable">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Linq.Queryable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Rtc">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Http.Rtc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NameResolution">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.NameResolution.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NetworkInformation">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.NetworkInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Ping">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Ping.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Primitives">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Requests">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Requests.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Security">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Sockets">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.Sockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebHeaderCollection">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.WebHeaderCollection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets.Client">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.WebSockets.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Net.WebSockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ObjectModel">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Emit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.ILGeneration">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Emit.ILGeneration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.Lightweight">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Emit.Lightweight.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Extensions">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Primitives">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Reflection.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Reader">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Resources.Reader.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.ResourceManager">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Resources.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Writer">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Resources.Writer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.VisualC">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.CompilerServices.VisualC.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Handles">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Handles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.InteropServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Numerics">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Serialization.Formatters.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Json">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Serialization.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Primitives">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Serialization.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Xml">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Runtime.Serialization.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Claims">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Claims.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Csp">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.Csp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Cryptography.X509Certificates.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.Principal.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.SecureString">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Security.SecureString.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Duplex">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.Duplex.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Http">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.NetTcp">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.NetTcp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Primitives">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Security">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ServiceModel.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Text.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding.Extensions">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Text.Encoding.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Text.RegularExpressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Overlapped.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Parallel">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Tasks.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Thread">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Thread.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.ThreadPool.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Timer">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Threading.Timer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.ReaderWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XDocument">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlDocument">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XmlDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlSerializer">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XmlSerializer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath.XDocument">
+        <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>D:\QFramework\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
@@ -1072,6 +1298,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="KLFramework.Avatar.csproj">
+      <Project>{4280cfb5-1d93-a560-e2ca-65b1b752582b}</Project>
+      <Name>KLFramework.Avatar</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

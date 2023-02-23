@@ -104,6 +104,22 @@ namespace XLua
 #endif
         }
 
+        public IntPtr L
+        {
+            get
+            {
+                return luaEnv.L;
+            }
+        }
+
+        public int Ref
+        {
+            get
+            {
+                return luaReference;
+            }
+        }
+
         //no boxing version set
         public void Set<TKey, TValue>(TKey key, TValue value)
         {

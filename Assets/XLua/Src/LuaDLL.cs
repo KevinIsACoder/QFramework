@@ -580,13 +580,45 @@ namespace XLua.LuaDLL
         [DllImport(LUADLL, CallingConvention = CallingConvention.Cdecl)]
         public static extern IntPtr xlua_gl(IntPtr L);
 
+        [DllImport(LUADLL, CallingConvention = CallingConvention.Cdecl)]
+        public static extern void luaX_freeMemory(IntPtr buf);
+        [DllImport(LUADLL, CallingConvention = CallingConvention.Cdecl)]
+        public static extern IntPtr luaX_encrypt(byte[] data, int len, out int resultLen);
+        [DllImport(LUADLL, CallingConvention = CallingConvention.Cdecl)]
+        public static extern IntPtr luaX_decrypt(byte[] data, int len, out int resultLen);
+        public static byte[] EncryptData(byte[] data)
+        {
+            int resultlen;
+            IntPtr ret = luaX_encrypt(data, data.Length, out resultlen);
+            if (ret != IntPtr.Zero)
+            {
+                byte[] v = new byte[resultlen];
+                Marshal.Copy(ret, v, 0, resultlen);
+                luaX_freeMemory(ret);
+                return v;
+            }
+            return null;
+        }
+        
+        public static byte[] DecryptData(byte[] data)
+        {
+            int resultlen;
+            IntPtr ret = luaX_decrypt(data, data.Length, out resultlen);
+            if (ret != IntPtr.Zero)
+            {
+                byte[] v = new byte[resultlen];
+                Marshal.Copy(ret, v, 0, resultlen);
+                luaX_freeMemory(ret);
+                return v;
+            }
+            return null;
+        }
 #if GEN_CODE_MINIMIZE
         [DllImport(LUADLL, CallingConvention = CallingConvention.Cdecl)]
         public static extern void xlua_set_csharp_wrapper_caller(IntPtr wrapper);
 
         [DllImport(LUADLL, CallingConvention = CallingConvention.Cdecl)]
         public static extern void xlua_push_csharp_wrapper(IntPtr L, int wrapperID);
-
         public static void xlua_set_csharp_wrapper_caller(CSharpWrapperCaller wrapper_caller)
         {
 #if XLUA_GENERAL || (UNITY_WSA && !UNITY_EDITOR)

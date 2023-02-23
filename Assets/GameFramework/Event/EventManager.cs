@@ -6,7 +6,6 @@
 //------------------------------------------------------------
 
 using System;
-
 namespace GameFramework.Event
 {
     /// <summary>

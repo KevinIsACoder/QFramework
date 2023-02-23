@@ -1,0 +1,21 @@
+{
+    "name": "com.kunlun.avatar",
+    "displayName": "KLFramework Avatar",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "Avatar for Unity",
+    "dependencies": {
+    },
+    "author": {
+        "name": "Kakashi",
+        "email": "john.cha@qq.com",
+        "url": "http://10.6.10.243:9999/technical-center/avatar"
+    },
+    "samples": [
+        {
+            "displayName": "Avatar Basic Sample",
+            "description": "Avatar Basic Sample",
+            "path": "Samples~/Basic"
+        }
+    ]
+}
