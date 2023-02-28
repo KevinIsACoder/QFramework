@@ -2,7 +2,7 @@
  * @Author: zhendong liang
  * @Date: 2023-02-22 16:12:03
  * @LastEditors: Do not edit
- * @LastEditTime: 2023-02-22 18:30:47
+ * @LastEditTime: 2023-02-28 11:35:48
  * @Description: 
  */
 using System.Collections;
@@ -10,7 +10,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using System.Threading;
-using System.Runtime.Remoting.Messaging;
 public class DelegateTest : MonoBehaviour
 {
     void Start()
