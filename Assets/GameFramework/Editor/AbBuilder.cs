@@ -5,15 +5,19 @@ using UnityEditor;
 using System.IO;
 public static class AbBuilder
 {
-    static string path = "Assets/Image";
+    static string path_1 = "Assets/Image/Image_1";
+    static string path_2 = "Assets/Image/Image_2";
     static string outPath = "Assets/StreamingAssets";
     static string prefabPath = "Assets/Prefabs";
     static List<AssetBundleBuild> assetBundleBuilds = new List<AssetBundleBuild>();
     public static void BuildAb()
     {
-        var assetbuild = GetAssetBuild(path);
+        assetBundleBuilds.Clear();
+        // var assetbuild = GetAssetBuild(path_1);
+        // var assetbuild_2 = GetAssetBuild(path_2);
         var prefabBuild = GetAssetBuild(prefabPath);
-        assetBundleBuilds.Add(assetbuild);
+        // assetBundleBuilds.Add(assetbuild);
+        // assetBundleBuilds.Add(assetbuild_2);
         assetBundleBuilds.Add(prefabBuild);
         BuildPipeline.BuildAssetBundles(outPath, assetBundleBuilds.ToArray(), BuildAssetBundleOptions.ChunkBasedCompression, BuildTarget.Android);
     }

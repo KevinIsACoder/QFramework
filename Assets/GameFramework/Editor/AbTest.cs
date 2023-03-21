@@ -7,8 +7,8 @@ public class AbTest : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        LoadAssets("Assets/StreamingAssets/image", "");
-        LoadAssets("Assets/StreamingAssets/prefabs", "Assets/Prefabs/Canvas.prefab");
+        //LoadAssets("Assets/StreamingAssets/image", "");
+        LoadAssets("Assets/StreamingAssets/prefabs", "Assets/Prefabs/UIPanel.prefab");
     }
 
     // Update is called once per frame
@@ -23,7 +23,11 @@ public class AbTest : MonoBehaviour
         if(!string.IsNullOrEmpty(assetPath))
         {
             var obj = bundle.LoadAsset<GameObject>(assetPath);
-            var UIPanel = Instantiate(obj);
+            for (int i = 0; i < 10; i++)
+            {
+                var UIPanel = Instantiate(obj);   
+                UIPanel.name = "UIPanel_" + i;
+            }
         }
     }
 }
