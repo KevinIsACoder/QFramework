@@ -35,6 +35,6 @@ public static class AppConsts
     public const string version = "1.0"; //版本号
     public static string persistentDataPath = Application.persistentDataPath;
     public static string dataPath = persistentDataPath + "/data";
-    public static string assetPath = persistentDataPath + "/upd";
+    public static string assetPath = Application.dataPath;
     public static string staticAssetsPath = Application.streamingAssetsPath + "/StaticAssets";
 }

@@ -1,0 +1,11 @@
+local Launcher = {}
+local Test = require("Test.lua")
+
+local main = function()
+    local o = Test:new()
+    o:GetNum()
+end
+
+main()
+
+return Launcher

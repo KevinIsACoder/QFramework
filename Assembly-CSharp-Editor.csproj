@@ -36,78 +36,81 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.cs" />
-     <Compile Include="Assets\XLua\Src\Editor\TemplateRef.cs" />
-     <Compile Include="Assets\XLua\Editor\ExampleConfig.cs" />
-     <Compile Include="Assets\XLua\Src\Editor\Hotfix.cs" />
-     <Compile Include="Assets\XLua\Src\Editor\Generator.cs" />
-     <Compile Include="Assets\XLua\Examples\13_BuildFromCLI\Editor\BuildFromCLI.cs" />
-     <Compile Include="Assets\Spark\Editor\SparkEditorHelper.cs" />
-     <Compile Include="Assets\Spark\Editor\UILongClickButtonInspector.cs" />
-     <Compile Include="Assets\Spark\Editor\UIViewRootInspector.cs" />
+    <Analyzer Include="D:\QFramework\Assets\Raw\Scripts\Localization\Scripts\Editor\Unity XCode\UnityEditor.iOS_I2Loc.Xcode.dll" />
+  </ItemGroup>
+  <ItemGroup>
      <Compile Include="Assets\Spark\Editor\SparkMenu.cs" />
-     <Compile Include="Assets\Spark\Editor\CSharpScriptGenerator.cs" />
-     <Compile Include="Assets\Spark\Editor\UIViewSettingsInspector.cs" />
-     <Compile Include="Assets\Spark\Editor\UIDoTweenAnimationInspector.cs" />
-     <Compile Include="Assets\Spark\Editor\UIAtlasSpritesWindow.cs" />
-     <Compile Include="Assets\Spark\Editor\GameConfig.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\PostProcessBuild_UnloadLanguages.cs" />
      <Compile Include="Assets\Spark\Editor\UIComponentGroupEditor.cs" />
      <Compile Include="Assets\Spark\Editor\TagHelper.cs" />
-     <Compile Include="Assets\Spark\Editor\LuaScriptGenerator.cs" />
-     <Compile Include="Assets\Spark\Editor\ComponentEditor.cs" />
-     <Compile Include="Assets\Spark\Editor\UIAtlasInspector.cs" />
-     <Compile Include="Assets\Spark\Editor\UIRectInspector.cs" />
-     <Compile Include="Assets\Spark\Particle2D\Scripts\Editor\Particle2DUGUIEditor.cs" />
-     <Compile Include="Assets\Spark\Editor\AssetBundleBuilder.cs" />
-     <Compile Include="Assets\Spark\Editor\FindRefrencesEdtorWindow.cs" />
-     <Compile Include="Assets\Spark\Editor\GameAssetBuilder.cs" />
      <Compile Include="Assets\Spark\Editor\UIToggleButtonInspector.cs" />
-     <Compile Include="Assets\Spark\Editor\UIImageInspector.cs" />
-     <Compile Include="Assets\Spark\Editor\UIComponentCollectionInspector.cs" />
-     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\Editor\DOTweenPreviewManager.cs" />
-     <Compile Include="Assets\Spark\Editor\GameLuaScriptProcessor.cs" />
-     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\Editor\DOTweenAnimationInspector.cs" />
-     <Compile Include="Assets\Spark\Editor\TextureSpritePackingTagCleaner.cs" />
-     <Compile Include="Assets\Spark\Editor\UIAtlasBuilder.cs" />
-     <Compile Include="Assets\Spark\Particle2D\Scripts\Editor\Particle2DSystemEditor.cs" />
      <Compile Include="Assets\Spark\Editor\UIViewExporter.cs" />
+     <Compile Include="Assets\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\LocalizeInspector.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\EditorTools.cs" />
+     <Compile Include="Assets\Spark\Editor\CSharpScriptGenerator.cs" />
+     <Compile Include="Assets\Spark\Editor\UIDoTweenAnimationInspector.cs" />
+     <Compile Include="Assets\Spark\Editor\UIAtlasSpritesWindow.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\LanguageSourceInspector.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_Script.cs" />
+     <Compile Include="Assets\Spark\Editor\LuaScriptGenerator.cs" />
+     <Compile Include="Assets\Spark\Editor\FindRefrencesEdtorWindow.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\LocalizationEditor.cs" />
+     <Compile Include="Assets\Spark\Editor\UIViewRootInspector.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\UpgradeManager.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\SetLanguageInspector.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Spreadsheet_Google.cs" />
+     <Compile Include="Assets\Spark\Editor\UIComponentCollectionInspector.cs" />
+     <Compile Include="Assets\XLua\Src\Editor\TemplateRef.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Languages.cs" />
      <Compile Include="Assets\Spark\Editor\UIAtlasProcessor.cs" />
      <Compile Include="Assets\Spark\Editor\SparkEditorTools.cs" />
-     <Compile Include="Assets\Spark\Editor\FileUtil.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_Scenes.cs" />
-     <Compile Include="Assets\Scripts\Debug\Editor\AutoAddScenesInBuildSettings.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Inspectors\LocalizationEditor.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\UpgradeManager.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\PostProcessBuild_UnloadLanguages.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\PostProcessBuild_IOS.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Inspectors\LocalizationParamsManagerInspector.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Inspectors\SetLanguageInspector.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Inspectors\ResourceManagerInspector.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Spreadsheet_Google.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Warnings.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Terms_Description.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\PostProcessBuild_ANDROID.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Spreadsheet_Local.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Languages.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Inspectors\LocalizeInspector.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_Categorize.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Inspectors\LanguageSourceAssetInspector.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\EditorTools.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_CharSet.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Inspectors\LocalizeDropdownInspector.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Terms.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Inspectors\LanguageSourceInspector.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_Script.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_NoLocalized.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_ParseTerms.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Inspectors\TermsPopup_Drawer.cs" />
-     <Compile Include="Assets\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_MergeTerms.cs" />
-     <Compile Include="Assets\GameFramework\Editor\AbBuilder.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Terms.cs" />
      <Compile Include="Assets\GameFramework\Editor\AbBuilderMenu.cs" />
      <Compile Include="Assets\GameFramework\Editor\AtlasImporter.cs" />
+     <Compile Include="Assets\XLua\Editor\ExampleConfig.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\TermsPopup_Drawer.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_Scenes.cs" />
+     <Compile Include="Assets\Raw\Scripts\Debug\Editor\AutoAddScenesInBuildSettings.cs" />
+     <Compile Include="Assets\Spark\Editor\UIViewSettingsInspector.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\PostProcessBuild_IOS.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\LocalizationParamsManagerInspector.cs" />
+     <Compile Include="Assets\XLua\Src\Editor\Hotfix.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\ResourceManagerInspector.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Warnings.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Terms_Description.cs" />
+     <Compile Include="Assets\Spark\Editor\UIImageInspector.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\PostProcessBuild_ANDROID.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor.cs" />
+     <Compile Include="Assets\Spark\Editor\FileUtil.cs" />
+     <Compile Include="Assets\Spark\Editor\UILongClickButtonInspector.cs" />
+     <Compile Include="Assets\Spark\Editor\GameConfig.cs" />
+     <Compile Include="Assets\XLua\Src\Editor\Generator.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_NoLocalized.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\Editor\DOTweenPreviewManager.cs" />
+     <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\Editor\DOTweenAnimationInspector.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_ParseTerms.cs" />
+     <Compile Include="Assets\Spark\Editor\SparkEditorHelper.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools.cs" />
+     <Compile Include="Assets\Spark\Editor\ComponentEditor.cs" />
+     <Compile Include="Assets\XLua\Examples\13_BuildFromCLI\Editor\BuildFromCLI.cs" />
+     <Compile Include="Assets\Spark\Editor\UIAtlasInspector.cs" />
+     <Compile Include="Assets\Spark\Editor\AssetBundleBuilder.cs" />
+     <Compile Include="Assets\Spark\Particle2D\Scripts\Editor\Particle2DUGUIEditor.cs" />
+     <Compile Include="Assets\Spark\Editor\UIAtlasBuilder.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Spreadsheet_Local.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_Categorize.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\LanguageSourceAssetInspector.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_CharSet.cs" />
+     <Compile Include="Assets\GameFramework\Editor\AbBuilder.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\LocalizeDropdownInspector.cs" />
+     <Compile Include="Assets\Spark\Editor\UIRectInspector.cs" />
+     <Compile Include="Assets\Spark\Editor\GameAssetBuilder.cs" />
+     <Compile Include="Assets\Spark\Editor\GameLuaScriptProcessor.cs" />
+     <Compile Include="Assets\Spark\Editor\TextureSpritePackingTagCleaner.cs" />
+     <Compile Include="Assets\Spark\Particle2D\Scripts\Editor\Particle2DSystemEditor.cs" />
      <Compile Include="Assets\GameFramework\Editor\AbTest.cs" />
+     <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_MergeTerms.cs" />
      <None Include="Assets\XLua\Src\Editor\Template\LuaInterfaceBridge.tpl.txt" />
      <None Include="Assets\XLua\Src\Editor\Template\LuaWrapPusher.tpl.txt" />
      <None Include="Assets\XLua\Src\Editor\Template\LuaDelegateWrap.tpl.txt" />
@@ -122,7 +125,7 @@
      <None Include="Assets\XLua\Src\Editor\Template\TemplateCommon.lua.txt" />
      <None Include="Assets\XLua\Src\Editor\Template\LuaDelegateBridge.tpl.txt" />
      <None Include="Assets\XLua\Src\Editor\Template\LuaEnumWrap.tpl.txt" />
-     <None Include="Assets\Scripts\Localization\Scripts\Editor\Unity XCode\Xcode.txt" />
+     <None Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Unity XCode\Xcode.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.27f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -366,29 +369,11 @@
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
         <HintPath>D:\QFramework\Library\PackageCache\com.unity.collab-proxy@1.15.7\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>D:\QFramework\Library\PackageCache\com.unity.collab-proxy@1.15.7\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="unityplastic">
-        <HintPath>D:\QFramework\Library\PackageCache\com.unity.collab-proxy@1.15.7\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="log4netPlastic">
-        <HintPath>D:\QFramework\Library\PackageCache\com.unity.collab-proxy@1.15.7\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-        <HintPath>D:\QFramework\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenPro">
-        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenProEditor">
-        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
-    </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
         <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
-    <Reference Include="DemiEditor">
-        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
+    <Reference Include="DemiLib">
+        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
         <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\DOTween.dll</HintPath>
@@ -396,14 +381,32 @@
     <Reference Include="Logger">
         <HintPath>D:\QFramework\Assets\Spark\Scripts\Logger.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Plastic.Antlr3.Runtime">
+        <HintPath>D:\QFramework\Library\PackageCache\com.unity.collab-proxy@1.15.7\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="unityplastic">
+        <HintPath>D:\QFramework\Library\PackageCache\com.unity.collab-proxy@1.15.7\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+    </Reference>
+    <Reference Include="DemiEditor">
+        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenPro">
+        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
+    </Reference>
+    <Reference Include="log4netPlastic">
+        <HintPath>D:\QFramework\Library\PackageCache\com.unity.collab-proxy@1.15.7\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    </Reference>
     <Reference Include="DOTweenEditor">
         <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
     </Reference>
-    <Reference Include="DemiLib">
-        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+    <Reference Include="DOTweenProEditor">
+        <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>D:\QFramework\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS_I2Loc.Xcode">
-        <HintPath>D:\QFramework\Assets\Scripts\Localization\Scripts\Editor\Unity XCode\UnityEditor.iOS_I2Loc.Xcode.dll</HintPath>
+        <HintPath>D:\QFramework\Assets\Raw\Scripts\Localization\Scripts\Editor\Unity XCode\UnityEditor.iOS_I2Loc.Xcode.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath>D:\QFramework\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>

@@ -2,40 +2,43 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using XLua;
+using QFramwork;
 public class Main : MonoBehaviour
 {
     // Start is called before the first frame update
     void Awake()
     {
-        // 配置Bugly参数，启动时在原生端执行的
-        // BuglyAgent.ConfigAutoQuitApplication(false);
-        // BuglyAgent.EnableExceptionHandler();
-
-        SparkHelper.onReload += () => Debug.Log("reload");
-
-        SparkLua.Env.AddBuildin("cmsgpack", XLua.LuaDLL.Lua.LoadMsgPack);
-        SparkLua.Env.AddBuildin("rapidjson", XLua.LuaDLL.Lua.LoadRapidJson);
-
-#if UNITY_EDITOR
-        SparkLua.rootPath = Application.dataPath + "/SparkAssets/Lua";
-#else
-		SparkLua.rootPath = SparkHelper.assetsPath + "/Lua";
-#endif
-        
-        //SparkLua.AddPackagePath("Game");
-
-        SparkLua.loader = (path) => {
-            var data = Resources.Load<TextAsset>("Lua/" + path);
-            return data != null ? data.bytes : null;
-        };
-
+//         // 配置Bugly参数，启动时在原生端执行的
+//         // BuglyAgent.ConfigAutoQuitApplication(false);
+//         // BuglyAgent.EnableExceptionHandler();
+//
+//         SparkHelper.onReload += () => Debug.Log("reload");
+//
+//         SparkLua.Env.AddBuildin("cmsgpack", XLua.LuaDLL.Lua.LoadMsgPack);
+//         SparkLua.Env.AddBuildin("rapidjson", XLua.LuaDLL.Lua.LoadRapidJson);
+//
+// #if UNITY_EDITOR
+//         SparkLua.rootPath = Application.dataPath + "/SparkAssets/Lua";
+// #else
+// 		SparkLua.rootPath = SparkHelper.assetsPath + "/Lua";
+// #endif
+//         
+//         //SparkLua.AddPackagePath("Game");
+//
+//         SparkLua.loader = (path) => {
+//             var data = Resources.Load<TextAsset>("Lua/" + path);
+//             return data != null ? data.bytes : null;
+//         };
+//
+        QFLuaEnv.AddLoader();
         Launch();
     }
 
     private void Update()
     {
-        SparkLua.Env.Tick();
+        //SparkLua.Env.Tick();
+        QFLuaEnv.luaEnv.Tick();
     }
 
     void Launch()
@@ -73,6 +76,9 @@ public class Main : MonoBehaviour
         //  * 导出了SetDesignResolution和DestroyContainerPool方法
         SparkLua.G.Set("__CORE_VERSION", 7);
 
-        SparkLua.Env.DoString(Resources.Load<TextAsset>("Scripts/Launcher.lua").text);
+        //SparkLua.Env.DoString(Resources.Load<TextAsset>("Scripts/Launcher.lua").text);
+        var textAssets = Resources.Load<TextAsset>("Scripts/Launcher.lua");
+        Debug.Log(textAssets.text);
+        QFLuaEnv.luaEnv.DoString(textAssets.text);
     }
 }
