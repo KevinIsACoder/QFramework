@@ -648,6 +648,7 @@
      <Compile Include="Assets\GameFramework\DataTable\DataTableManager.cs" />
      <Compile Include="Assets\Raw\Scripts\LuaEnv\QFLuaEnv.cs" />
      <Compile Include="Assets\Raw\Scripts\Framework\Assets.cs" />
+     <Compile Include="Assets\C#\QuickSort.cs" />
      <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\async_test.lua.txt" />
      <None Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\Resources\byfile.lua.txt" />
      <None Include="Assets\Spark\Resources\Shaders\UI-DefaultGray.shader" />
