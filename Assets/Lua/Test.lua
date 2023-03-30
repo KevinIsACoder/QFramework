@@ -10,7 +10,31 @@ function Test:new()
 end
 
 function Test:GetNum()
-    print("Test Lua+++++++ " .. self.num)
+end
+
+function Test:CollectGarbage()
+    local a = {}
+    setmetatable(a, {})
+    local k = {}
+    a[k] = 2
+    k = nil
+    
+    collectgarbage()
+    for i, v in pairs(a) do
+        print("CollectGarbage+++++++ " .. v);
+        print(i)
+    end
+end
+
+
+function Test:ClosureTest()
+    local func = function()
+        local i = 0
+        return function() i = i + 1 print("ClosureTest++++++ " .. i) end
+    end
+    local c1 = func()
+    c1()
+    c1()
 end
 
 return Test
