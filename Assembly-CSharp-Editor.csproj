@@ -36,9 +36,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="D:\QFramework\Assets\Raw\Scripts\Localization\Scripts\Editor\Unity XCode\UnityEditor.iOS_I2Loc.Xcode.dll" />
-  </ItemGroup>
-  <ItemGroup>
      <Compile Include="Assets\Spark\Editor\SparkMenu.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\PostProcessBuild_UnloadLanguages.cs" />
      <Compile Include="Assets\Spark\Editor\UIComponentGroupEditor.cs" />
@@ -66,7 +63,7 @@
      <Compile Include="Assets\Spark\Editor\UIAtlasProcessor.cs" />
      <Compile Include="Assets\Spark\Editor\SparkEditorTools.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Terms.cs" />
-     <Compile Include="Assets\GameFramework\Editor\AbBuilderMenu.cs" />
+     <Compile Include="Assets\GameFramework\AbBuilderTools\Editor\AbBuilderMenu.cs" />
      <Compile Include="Assets\GameFramework\Editor\AtlasImporter.cs" />
      <Compile Include="Assets\XLua\Editor\ExampleConfig.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\TermsPopup_Drawer.cs" />
@@ -102,7 +99,7 @@
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_Categorize.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\LanguageSourceAssetInspector.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Localization\LocalizationEditor_Tools_CharSet.cs" />
-     <Compile Include="Assets\GameFramework\Editor\AbBuilder.cs" />
+     <Compile Include="Assets\GameFramework\AbBuilderTools\Editor\AbBuilder.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Editor\Inspectors\LocalizeDropdownInspector.cs" />
      <Compile Include="Assets\Spark\Editor\UIRectInspector.cs" />
      <Compile Include="Assets\Spark\Editor\GameAssetBuilder.cs" />
@@ -378,6 +375,9 @@
     <Reference Include="DOTween">
         <HintPath>D:\QFramework\Assets\Spark\Scripts\ThirdPart\Demigiant\DOTween\DOTween.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.iOS_I2Loc.Xcode">
+        <HintPath>D:\QFramework\Assets\Raw\Scripts\Localization\Scripts\Editor\Unity XCode\UnityEditor.iOS_I2Loc.Xcode.dll</HintPath>
+    </Reference>
     <Reference Include="Logger">
         <HintPath>D:\QFramework\Assets\Spark\Scripts\Logger.dll</HintPath>
     </Reference>
@@ -404,9 +404,6 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
         <HintPath>D:\QFramework\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS_I2Loc.Xcode">
-        <HintPath>D:\QFramework\Assets\Raw\Scripts\Localization\Scripts\Editor\Unity XCode\UnityEditor.iOS_I2Loc.Xcode.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath>D:\QFramework\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>

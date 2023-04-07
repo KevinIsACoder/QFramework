@@ -11,6 +11,13 @@
           <e p="QuickSort.cs" t="Include" />
         </e>
         <e p="GameFramework" t="Include">
+          <e p="AbBuilderTools" t="Include">
+            <e p="AbItem.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="AbBuilder.cs" t="Include" />
+              <e p="AbBuilderMenu.cs" t="Include" />
+            </e>
+          </e>
           <e p="Base" t="Include">
             <e p="DataProvider" t="Include">
               <e p="DataProvider.cs" t="Include" />
@@ -117,8 +124,6 @@
             <e p="IDownloadManager.cs" t="Include" />
           </e>
           <e p="Editor" t="Include">
-            <e p="AbBuilder.cs" t="Include" />
-            <e p="AbBuilderMenu.cs" t="Include" />
             <e p="AbTest.cs" t="Include" />
             <e p="AtlasImporter.cs" t="Include" />
           </e>

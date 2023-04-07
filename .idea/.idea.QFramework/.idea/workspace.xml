@@ -4,8 +4,37 @@
     <list default="true" id="fa626318-01ab-497e-90c0-b04921b61432" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.QFramework/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QFramework/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.QFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Atlas/Image_1.spriteatlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Atlas/Image_1.spriteatlas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Atlas/Image_2.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Atlas/Image_2.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameFramework/Editor/AbBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameFramework/Editor/AbBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameFramework/Editor/AbBuilderMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameFramework/Editor/AbBuilderMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UIPanel_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UIPanel_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UIPanel_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UIPanel_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Raw/Scripts/C#/AbTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Raw/Scripts/C#/AbTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartUp.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StartUp.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets.manifest.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets.manifest.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/prefabs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/prefabs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/prefabs.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/prefabs.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/prefabs.manifest.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/prefabs.manifest.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/prefabs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KLFramework.Avatar.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/KLFramework.Avatar.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/KLFramework.Avatar.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/KLFramework.Avatar.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/KLFramework.Avatar.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/KLFramework.Avatar.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +64,10 @@
       <option value="$PROJECT_DIR$/Assets/Resources/Scripts/Launcher.lua.bytes" />
       <option value="$PROJECT_DIR$/Assets/Lua/Test.lua" />
       <option value="$PROJECT_DIR$/Assets/C#/QuickSort.cs" />
+      <option value="$PROJECT_DIR$/Assets/XLua/Src/LuaTable.cs" />
+      <option value="$PROJECT_DIR$/Assets/GameFramework/AbBuilderTools/AbItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/GameFramework/AbBuilderTools/Editor/AbBuilder.cs" />
+      <option value="$PROJECT_DIR$/Assets/Raw/Scripts/C#/AbTest.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2NLq9HNLDVr0P3GtvVnvB6B6WGM" />
@@ -60,10 +93,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="20484">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="20484" />
+      <option name="pid" />
       <option name="selectedOptions">
         <list />
       </option>
@@ -80,6 +113,7 @@
       <updated>1679453556882</updated>
       <workItem from="1679453580616" duration="1071000" />
       <workItem from="1679461905137" duration="26183000" />
+      <workItem from="1680494736776" duration="15232000" />
     </task>
     <servers />
   </component>
@@ -98,6 +132,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

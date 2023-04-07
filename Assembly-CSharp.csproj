@@ -36,9 +36,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="D:\QFramework\Assets\Raw\Scripts\Localization\Scripts\Editor\Unity XCode\UnityEditor.iOS_I2Loc.Xcode.dll" />
-  </ItemGroup>
-  <ItemGroup>
      <Compile Include="Assets\GameFramework\Resource\ILoadResourceAgentHelper.cs" />
      <Compile Include="Assets\XLua\Src\ObjectTranslatorPool.cs" />
      <Compile Include="Assets\Spark\Scripts\ThirdPart\Demigiant\DOTweenPro\DOTweenProShortcuts.cs" />
@@ -142,6 +139,7 @@
      <Compile Include="Assets\Raw\Scripts\Debug\FakeMessageModel.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Utils\RTLFixer.cs" />
      <Compile Include="Assets\XLua\Examples\11_RawObject\RawObjectTest.cs" />
+     <Compile Include="Assets\GameFramework\AbBuilderTools\AbItem.cs" />
      <Compile Include="Assets\GameFramework\Base\GameFrameworkMultiDictionary.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Targets\LocalizeTarget_SVGImporter_Image.cs" />
      <Compile Include="Assets\XLua\Src\TemplateEngine\TemplateEngine.cs" />
@@ -369,6 +367,7 @@
      <Compile Include="Assets\GameFramework\Base\DataProvider\DataProviderCreator.cs" />
      <Compile Include="Assets\GameFramework\UI\OpenUIFormDependencyAssetEventArgs.cs" />
      <Compile Include="Assets\GameFramework\Sound\ISoundAgent.cs" />
+     <Compile Include="Assets\Raw\Scripts\LuaEnv\QFLuaEnv.cs" />
      <Compile Include="Assets\XLua\Tutorial\LoadLuaScript\ByString\ByString.cs" />
      <Compile Include="Assets\GameFramework\DataTable\IDataRow.cs" />
      <Compile Include="Assets\XLua\Examples\05_NoGc\NoGc.cs" />
@@ -416,6 +415,7 @@
      <Compile Include="Assets\XLua\Src\TypeExtensions.cs" />
      <Compile Include="Assets\GameFramework\Resource\LoadBytesFailureCallback.cs" />
      <Compile Include="Assets\Raw\Scripts\C#\DesignMode\SingleTonTest.cs" />
+     <Compile Include="Assets\C#\QuickSort.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Utils\RegisterGlobalParameters.cs" />
      <Compile Include="Assets\GameFramework\Network\NetworkErrorCode.cs" />
      <Compile Include="Assets\Raw\Scripts\PersonalShow\AvartaPlayer.cs" />
@@ -550,6 +550,7 @@
      <Compile Include="Assets\GameFramework\Entity\EntityManager.EntityInstanceObject.cs" />
      <Compile Include="Assets\GameFramework\Base\DataProvider\IDataProviderHelper.cs" />
      <Compile Include="Assets\GameFramework\Sound\SoundManager.SoundGroup.cs" />
+     <Compile Include="Assets\Raw\Scripts\Framework\Assets.cs" />
      <Compile Include="Assets\Raw\Scripts\Framework\Components\Gradient2.cs" />
      <Compile Include="Assets\Raw\Scripts\Localization\Scripts\Targets\LocalizeTarget_NGUI_Sprite.cs" />
      <Compile Include="Assets\GameFramework\Sound\SoundManager.SoundAgent.cs" />
@@ -646,9 +647,6 @@
      <Compile Include="Assets\Spark\Scripts\UI\UIScriptableView.cs" />
      <Compile Include="Assets\GameFramework\Resource\ResourceManager.ResourceName.cs" />
      <Compile Include="Assets\GameFramework\DataTable\DataTableManager.cs" />
-     <Compile Include="Assets\Raw\Scripts\LuaEnv\QFLuaEnv.cs" />
-     <Compile Include="Assets\Raw\Scripts\Framework\Assets.cs" />
-     <Compile Include="Assets\C#\QuickSort.cs" />
      <None Include="Assets\XLua\Examples\07_AsyncTest\Resources\async_test.lua.txt" />
      <None Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\Resources\byfile.lua.txt" />
      <None Include="Assets\Spark\Resources\Shaders\UI-DefaultGray.shader" />
